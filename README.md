@@ -106,7 +106,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * * *
 
-<h2 id="#package-managers">包管理器</h2>
+<h2 id="package-managers">包管理器</h2>
 
 管理着 javascript 库，并提供读取和打包它们的工具。
 
