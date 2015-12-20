@@ -43,67 +43,70 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * [JavaScript资源大全中文版](#awesome-javascript-cn)
   * [包管理器](#package-managers)
-  * [Loaders](#loaders)
-  * [Bundlers](#bundlers)
-  * [Testing Frameworks](#testing-frameworks)
-  * [QA Tools](#qa-tools)
-  * [MVC Frameworks and Libraries](#mvc-frameworks-and-libraries)
-  * [Node-Powered CMS Frameworks](#node-powered-cms-frameworks)
-  * [Templating Engines](#templating-engines)
-  * [Articles/Posts](#articles-and-posts)
-  * [Data Visualization](#data-visualization)
-    * [Timeline](#timeline)
-  * [Editors](#editors)
-  * Utilities
-    * [Files](#files)
-    * [Functional Programming](#functional-programming)
-    * [Reactive Programming](#reactive-programming)
-    * [Data Structure](#data-structure)
-    * [Date](#date)
-    * [String](#string)
-    * [Number](#number)
-    * [Storage](#storage)
-    * [Color](#color)
-    * [I18n And L10n](#i18n-and-l10n)
-    * [Class](#class)
-    * [Control Flow](#control-flow)
-    * [Routing](#routing)
-    * [Security](#security)
-    * [Log](#log)
-    * [RegExp](#regexp)
-    * [Media](#media)
-    * [Voice Command](#voice-command)
+  * [加载器](#loaders)
+  * [打包工具](#bundlers)
+  * [测试框架](#testing-frameworks)
+  * [QA 工具](#qa-tools)
+  * [MVC 框架和库](#mvc-frameworks-and-libraries)
+  * [基于 Node 的 CMS 框架](#node-powered-cms-frameworks)
+  * [模板引擎](#templating-engines)
+  * [数据可视化](#data-visualization)
+    * [时间轴](#timeline)
+  * [编辑器](#editors)
+  * 工具
+    * [文件](#files)
+    * [函数式编程](#functional-programming)
+    * [响应式编程](#reactive-programming)
+    * [数据结构(#data-structure)
+    * [日期](#date)
+    * [字符串](#string)
+    * [数字](#number)
+    * [存储](#storage)
+    * [颜色](#color)
+    * [国际化和本地化](#i18n-and-l10n)
+    * [类](#class)
+    * [控制流](#control-flow)
+    * [路由](#routing)
+    * [安全性](#security)
+    * [日志](#log)
+    * [正则表达式](#regexp)
+    * [媒体](#media)
+    * [语言命令](#voice-command)
     * [API](#api)
-    * [Vision Detection](#vision-detection)
-    * [Browser Detection](#browser-detection)
+    * [视觉检测](#vision-detection)
+    * [浏览器检测](#browser-detection)
   * UI
-    * [Code Highlighting](#code-highlighting)
-    * [Loading Status](#loading-status)
-    * [Validation](#validation)
-    * [Keyboard Wrappers](#keyboard-wrappers)
-    * [Tours And Guides](#tours-and-guides)
-    * [Notifications](#notifications)
-    * [Sliders](#sliders)
-    * [Range Sliders](#range-sliders)
-    * [Form Widgets](#form-widgets)
-    * [Tips](#tips)
-    * [Modals and Popups](#modals-and-popups)
-    * [Scroll](#scroll)
-    * [Menu](#menu)
-    * [Table/Grid](#tablegrid)
-    * [Frameworks](#frameworks-1)
-  * Mobile
-  * [Gesture](#gesture)
-  * [Maps](#maps)
-  * [Animations](#animations)
-  * [Image processing](#image-processing)
+    * [代码高亮](#code-highlighting)
+    * [加载状态](#loading-status)
+    * [验证](#validation)
+    * [键盘封装器](#keyboard-wrappers)
+    * [浏览和引导](#tours-and-guides)
+    * [通知](#notifications)
+    * [幻灯片](#sliders)
+    * [滑块控件](#range-sliders)
+    * [表单组件](#form-widgets)
+    * [提示](#tips)
+    * [模态框和弹出框](#modals-and-popups)
+    * [滚动条](#scroll)
+    * [菜单](#menu)
+    * [表格/栅格](#table-grid)
+    * [框架](#frameworks-1)
+  * 移动
+    * [手势](#gesture)
+  * [地图](#maps)
+  * [视频/音频](#video-audio)
+  * [动画](#animations)
+  * [图片处理](#image-processing)
   * [ES6](#es6)
   * [SDK](#sdk)
-  * [Misc](#misc)
-* [Worth Reading](#worth-reading)
-* [Other Awesome Lists](#other-awesome-lists)
-* [Contributing](#contributing)
-
+  * [大杂烩](#misc)
+* [精品阅读](#worth-reading)
+- [资源](#resources)
+    - [社区](#communities)
+    - [有影响力的书](#influential-books)
+    - [微博、微信公众号](#weibo-weixin)
+    - [知名网站](#websites)
+    - [博客](blogs)
 * * *
 
 <h2 id="package-managers">包管理器</h2>
@@ -120,7 +123,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [volo](https://github.com/volojs/volo) - 以项目模板、添加依赖项与自动化生成的方式创建前端项目。
 * [Duo](https://github.com/duojs/duo) - 一个整合 Component、Browserify 和 Go 的最佳思想，使开发者能快速方便地组织和编写前端代码的下一代包管理器。
 
-## [](#loaders)加载器
+<h2 id="loaders">加载器</h2>
 
 JavaScript 的模块或加载系统。
 
@@ -136,14 +139,14 @@ JavaScript 的模块或加载系统。
 * [ESL](https://github.com/ecomfe/esl) - 浏览器端的模块加载器，支持延迟定义和 AMD。
 * [modulejs](https://github.com/lrsjng/modulejs) - 轻量的 JavaScript 模块系统。
 
-## [](#bundlers)打包工具
+<h2 id="bundlers">打包工具</h2>
 
 * [browserify](https://github.com/substack/node-browserify) - Browserify 让你能在浏览器端使用 require('modules') ，打包所有依赖。
 * [webpack](https://github.com/webpack/webpack) - 为浏览器打包 CommonJs/AMD 模块。
 
-## [](#testing-frameworks)测试框架
+<h2 id="testing-frameworks">测试框架</h2>
 
-### [](#frameworks)框架
+### 框架
 
 * [mocha](https://github.com/visionmedia/mocha) - 适用于 node.js 和浏览器、简易、灵活、有趣的 JavaScript 测试框架。
 * [jasmine](https://github.com/pivotal/jasmine) - 简单无 DOM 的 JavaScript 测试框架。
@@ -152,19 +155,19 @@ JavaScript 的模块或加载系统。
 * [prova](http://github.com/azer/prova) - 基于 Tape 和 Browserify 的测试运行器，它适用于 Node &amp; 浏览器。
 * [DalekJS](https://github.com/dalekjs/dalek) - 自动化且跨浏览器的 JavaScript 功能测试框架。
 
-### [](#assertion)断言
+### 断言
 
 * [chai](https://github.com/chaijs/chai) - 适用于 node.js 和浏览器的 BDD / TDD 断言框架，并能搭配其它测试框架使用。
 * [Sinon.JS](https://github.com/cjohansen/Sinon.JS) - 对 JavaScript 进行 spies、stubs 和 mock 测试。
 * [expect.js](https://github.com/LearnBoost/expect.js) - 简约的、适用于 Node.js 和浏览器端的 BDD 式断言工具。
 
-### [](#coverage)覆盖率
+### 覆盖率
 
 * [istanbul](https://github.com/gotwarlost/istanbul) - 另一个 JS 代码覆盖率检测工具。
 * [blanket](https://github.com/alex-seville/blanket) - 一个简单的代码覆盖率检测库。它的设计理念是易于安装和使用，且可用于浏览器端和 node.js。
 * [JSCover](https://github.com/tntim96/JSCover) - JSCover 是一个检测 JavaScript 程序代码覆盖率的工具。
 
-### [](#runner)运行器
+### 运行器
 
 * [phantomjs](https://github.com/ariya/phantomjs) - 脚本化的 Headless WebKit。
 * [slimerjs](https://github.com/laurentj/slimerjs) - 一个内核为 Gecko 的类似 PhantomJS 工具。
@@ -176,7 +179,7 @@ JavaScript 的模块或加载系统。
 * [intern](https://github.com/theintern/intern) - 下一代 JavaScript 代码测试栈。
 * [yolpo](http://www.yolpo.com/) - 在浏览器逐句执行的 JavaScript 解释器。
 
-## [](#qa-tools)QA 工具
+<h2 id="qa-tools">QA 工具</h2>
 
 * [JSHint](https://github.com/jshint/jshint/) - JSHint 是一个有助于发现 JavaScript 代码错误和潜在问题的工具。
 * [jscs](https://github.com/jscs-dev/node-jscs) - JavaScript 代码风格检测工具。
@@ -186,7 +189,7 @@ JavaScript 的模块或加载系统。
 * [ESLint](https://github.com/eslint/eslint) - 完全插件化的工具，能在 JavaScript 中识别和记录模式。
 * [JSLint](https://github.com/douglascrockford/JSLint) - 高标准、严格和固执的代码质量工具，旨在只保持语言的优良部分。
 
-## [](#mvc-frameworks-and-libraries)MVC 框架和库
+<h2 id="mvc-frameworks-and-libraries">MVC 框架和库</h2>
 
 * [angular.js](https://github.com/angular/angular.js) - 为网络应用增强 HTML。
 * [aurelia](http://aurelia.io/) - 一个适用于移动设备、桌面电脑和 web 的客户端 JavaScript 框架。
@@ -209,14 +212,13 @@ JavaScript 的模块或加载系统。
 * [ripple](https://github.com/ripplejs/ripple) - 一个小巧的、用于构建响应界面的基础框架。
 * [rivets](https://github.com/mikeric/rivets) - 轻量却拥有强大的数据绑定和模板解决方案
 * [derby](https://github.com/derbyjs/derby) - 让编写实时和协同应用更简单的 MVC 框架，能够在 Node.js 和浏览器同时运行。
-
     * [derby-awesome](https://github.com/onerussell/awesome-derby) - 很棒的 derby 组件集合。
 * [way.js](https://github.com/gwendall/way.js) - 简单、轻量、持久化的双向数据绑定。
 * [mithril.js](https://github.com/lhorie/mithril.js) - Mithril 是一个客户端 MVC 框架（轻量、强大和快速）
 * [jsblocks](https://github.com/astoilkov/jsblocks) - jsblocks 是一个更好的 MV-ish 框架。
 * [LiquidLava](http://www.lava-framework.com/) - 易懂的、用于构建用户界面的 MVC 框架。
 
-### Node CMS 框架
+<h2 id="node-powered-cms-frameworks">基于 Node 的 CMS 框架</h2>
 
 * [KeystoneJS](https://github.com/keystonejs/keystone) - 强大的 CMS 和 web 应用框架。
 * [Reaction Commerce](https://github.com/reactioncommerce/reaction) - 拥有实时的架构和设计的响应式（reactive） CMS。
@@ -229,7 +231,7 @@ JavaScript 的模块或加载系统。
 * [Cody](https://github.com/jcoppieters/cody) - 拥有所见即所得的编辑器的 CMS。
 * [PencilBlue](https://github.com/pencilblue/pencilblue/) - CMS 和博客平台。
 
-## 模板引擎
+<h2 id="templating-engines">模板引擎</h2>
 
 模板引擎允许您执行字符串插值。
 
@@ -246,11 +248,7 @@ JavaScript 的模块或加载系统。
 * [xtemplate](https://github.com/xtemplate/xtemplate) - 可扩展的模板引擎，适用于 node 和浏览器。
 * [marko](https://github.com/marko-js/marko) - 快速轻量且基于 HTML 的模板引擎，支持异步、流、自定义标签和 CommonJS 模编译后输出。适用于 Node.js 和浏览器。
 
-## 文章和帖子
-
-* [The JavaScript that you should know](https://medium.com/@pedropolisenso/o-javasscript-que-voc%C3%AA-deveria-conhecer-b70e94d1d706) - 关于 JavaScript 函数化概念的文章。
-
-## 数据可视化
+<h2 id="data visualization">数据可视化</h2>
 
 Web 数据可视化工具
 
@@ -293,12 +291,12 @@ Web 数据可视化工具
 
 也有一些很棒的收费库，如 [amchart](http://www.amcharts.com/)、[plotly](https://www.plot.ly/) 和 [highchart](http://www.highcharts.com/)。
 
-## [](#timeline)时间轴
+<h3 id="timeline">时间轴</h3>
 
 * [TimelineJS](https://github.com/NUKnightLab/TimelineJS) -  一个用 JavaScript 编写的可叙事时间轴库。
 * [timesheet.js](https://github.com/semu/timesheet.js) - 用于构建简单的 HTML5 &amp; CSS3 时间表的 JavaScript 库。
 
-## 编辑器
+<h2 id="editors">编辑器</h2>
 
 * [ace](https://github.com/ajaxorg/ace) - Ace（Ajax.org Cloud9 Editor）。
 * [CodeMirror](https://github.com/marijnh/CodeMirror) - 浏览器端的代码编辑器。
@@ -317,14 +315,14 @@ Web 数据可视化工具
 * [TinyMCE](https://github.com/tinymce/tinymce) - JavaScript 富文本编辑器。
 * [trix](https://github.com/basecamp/trix) - 由 Basecamp 制作，适用于每天写作的富文本编辑器。
 
-## 文件
+<h3 id="files">文件</h3>
 
 处理文件的库。
 
 * [Papa Parse](https://github.com/mholt/PapaParse) - 一款强大的 CSV 库，支持解析 CSV 文件/字符串，也能导出 CSV。
 * [jBinary](https://github.com/jDataView/jBinary) - 对用声明式语法描述文件类型和数据结构的二进制文件，进行高级 I/O（加载、解析、操作、序列化、存储）操作。
 
-## 函数式编程
+<h3 id="functional-programming">函数式编程</h3>
 
 函数式编程库扩展了 JavaScript 的能力。
 
@@ -336,7 +334,7 @@ Web 数据可视化工具
 * [mout](https://github.com/mout/mout) - 模块化的 JavaScript 工具库。
 * [mesh](https://github.com/mojo-js/mesh.js) - 流数据同步工具。
 
-## 响应式编程
+<h3 id="reactive-programming">响应式编</h3>
 
 响应式程序库扩展了 JavaScript 的能力。
 
@@ -346,7 +344,7 @@ Web 数据可视化工具
 * [Highland](http://highlandjs.org/) - 对 JavaScript 实用工具的重新思考，Highland 能轻易地管理同步和异步信息，而且仅使用标准 JavaScript 和类 Node 流。
 * [Most.js](https://github.com/cujojs/most) - 高性能 FRP 库。
 
-## 数据结构
+<h3 id="数据结构">数据结构</h3>
 
 数据结构库用于构建一个更复杂的应用。
 
@@ -355,7 +353,7 @@ Web 数据可视化工具
 * [buckets](https://github.com/mauriciosantos/buckets) - 完整的、经过充分测试和记录数据结构的 JavaScript 库。
 * [hashmap](https://github.com/flesler/hashmap) - 简单的 hashmap 实现，支持任何类型的键值。
 
-## 日期
+<h3 id="date">日期</h3>
 
 日期库。
 
@@ -366,7 +364,7 @@ Web 数据可视化工具
 * [date](https://github.com/MatthewMueller/date) - 拥有人性化的 Date() 方法。
 * [ms.js](https://github.com/guille/ms.js) - 小巧的毫秒转换工具。
 
-## 字符串
+<h3 id="string">字符串</h3>
 
 字符串库。
 
@@ -381,7 +379,7 @@ Web 数据可视化工具
 * [sprintf.js](https://github.com/alexei/sprintf.js) - 实现字符串格式化。
 * [url-pattern](https://github.com/snd/url-pattern) - 让 url 和其它字符串进行比正则表达式匹配更简单。字符串和数据可相互转化。
 
-## 数字
+<h3 id="number">数字</h3>
 
 * [Numeral-js](https://github.com/adamwdraper/Numeral-js) - 对数字进行格式化和操作的库。
 * [odometer](https://github.com/HubSpot/odometer) - 流畅的数字过渡效果。
@@ -391,7 +389,7 @@ Web 数据可视化工具
 * [Complex.js](https://github.com/infusion/Complex.js) -  一个复数库。
 * [Polynomial.js](https://github.com/infusion/Polynomial.js) - 一个多项式库。
 
-## 存储
+<h3 id="storage">存储</h3>
 
 * [store.js](https://github.com/marcuswestin/store.js) - 为所有浏览器封装了 LocalStorage，而没有使用 cookies 和 flash。隐秘地使用 localStorage、globalStorage 和用户数据。
 * [localForage](https://github.com/mozilla/localForage) - 改善后的离线存储。其封装了 IndexedDB、WebSQL 和 localStorage，拥有操作简单和强大的 API。
@@ -405,7 +403,7 @@ Web 数据可视化工具
 * [DB.js](https://github.com/aaronpowell/db.js/) - 基于 Promise 的、封装了 IndexDB 的库。
 * [lawnchair.js](https://github.com/brianleroux/lawnchair/) - 简单的客户端 JSON 存储。
 
-## 颜色
+<h3 id="color">颜色</h3>
 
 * [randomColor](https://github.com/davidmerfield/randomColor) - JavaScript 颜色生成器。
 * [chroma.js](https://github.com/gka/chroma.js) - 拥有各种各样颜色操作的 JavaScript 库。
@@ -415,7 +413,7 @@ Web 数据可视化工具
 * [TinyColor](https://github.com/bgrins/TinyColor) - 快速、轻巧的颜色操作和转换库。
 * [Vibrant.js](https://github.com/jariz/vibrant.js/) - 从图像提取主要颜色。
 
-## 国际化和本地化（I18n And L10n）
+<h3 id="i18n-and-l10n">国际化和本地化（I18n And L10n）</h3>
 
 本地化和国际化 JavaScript 库
 
@@ -423,13 +421,13 @@ Web 数据可视化工具
 * [polyglot](https://github.com/airbnb/polyglot.js) - 小巧的国际化助手库。
 * [babelfish](https://github.com/nodeca/babelfish/) - i18n 提供友好易懂的 API ，并且内置多种支持。
 
-## 类
+<h3 id="class">类</h3>
 
 * [ClassManager](https://github.com/kogarashisan/ClassManager) - 世界上最快、最方便的类系统之一。
 * [klass](https://github.com/ded/klass) - 用于创建极富表现力的类工具库。
 * [augment](https://github.com/javascript/augment) - 世界上最小且最快的一流 JavaScript 继承模式。
 
-## 控制流
+<h3 id="control-flow">控制流</h3>
 
 * [async](https://github.com/caolan/async) - 适用于 node 和浏览器的异步工具库。
 * [q](https://github.com/kriskowal/q) - 实现异步的 promise JavaScript 库。
@@ -439,7 +437,7 @@ Web 数据可视化工具
 * [when](https://github.com/cujojs/when) - 快速可靠的、Promises/A+ 规范的 when() 实现，而且拥有异步其它的优秀特性。
 * [ObjectEventTarget](https://github.com/gartz/ObjectEventTarget) - 提供增加了事件监听的原型（与 DOMElement 的 EventTarget 在浏览器行为一致）。
 
-## 路由
+<h3 id="routing">路由</h3>
 
 * [director](https://github.com/flatiron/director) - 一个小巧的、与 URL 同构的路由器。
 * [page.js](https://github.com/visionmedia/page.js) - 受 Express router 启发的小型客户端路由器（约为1200字节）。
@@ -447,12 +445,12 @@ Web 数据可视化工具
 * [crossroads](https://github.com/millermedeiros/crossroads.js) - JavaScript 路由。
 * [davis.js](https://github.com/olivernn/davis.js) - 使用 pushState、RESTful 风格和可降级的 JavaScript 路由器。
 
-## 安全性
+<h3 id="security">安全性</h3>
 
 * [DOMPurify](https://github.com/cure53/DOMPurify) - 针对 HTML、MathML 和 SVG 的仅支持DOM、快速、高容错的 XSS 过滤器。
 * [js-xss](https://github.com/leizongmin/js-xss) - 通过白名单配置，即可过滤不信任的 HTML（防止 XSS 攻击）。
 
-## 日志
+<h3 id="log">日志</h3>
 
 * [log](https://github.com/adamschwartz/log) - 带有样式的 Console.log。
 * [Conzole](https://github.com/Oaxoa/Conzole) - 对 JavaScript 原生 console 对象方法和功能进行封装的 debug 面板，使其显示在页面内。
@@ -460,43 +458,45 @@ Web 数据可视化工具
 * [loglevel](https://github.com/pimterry/loglevel) - 最轻量的 JavaScript 日志记录工具库，向封装后可用的 console.log 方法增加可靠的日志等级。
 * [minilog](http://mixu.net/minilog/) – 轻量的、用流式 API 显示的、可用于客户端和服务器端的日志记录库。
 
-## 正则表达式
+<h3 id="regexp">正则表达式</h3>
 
 * [RegEx101](https://regex101.com/#javascript) - 在线的 JavaScript 正则表达式测试器和调试器。同时支持 Python、PHP 和 PCRE。
 * [RegExr](http://regexr.com/) - 用于创建、测试和学习正则表达式的 HTML/JS  工具。
 * [RegExpBuilder](https://github.com/thebinarysearchtree/regexpbuilderjs) - 使用链式方法创建正则表达式。
 
-## 媒体
+<h3 id="media">媒体</h3>
 
 * [Ion.Sound](https://github.com/IonDen/ion.sound) - 可用于任何网页上简单音频。
 
-## 语音命令
+<h3 id="voice-command">语音命令</h3>
 
 * [annyang](https://github.com/TalAter/annyang) - 向网站添加语音命令的语音识别库。
 * [voix.js](https://github.com/pazguille/voix) - 向网站、app 或游戏添加语音命令的 JavaScript 库。
 
-## API （Application Program Interface）
+<h3 id="api">API</h3>
 
 * [bottleneck](https://github.com/SGrondin/bottleneck) - 强大的频率限制器，使调节流量变得更容易。
 * [oauth-signature-js](https://github.com/bettiolo/oauth-signature-js) - 适用于 node 和 浏览器的 OAuth 1.0a 签名生成器。
 * [amygdala](https://github.com/lincolnloop/amygdala) - 为 Web 应用提供 RESTful HTTP 客户端解决方案。
 * [jquery.rest](https://github.com/jpillora/jquery.rest) - 一个让 RESTful API 更易使用的 jQuery 插件。
 
-## 视觉检测
+<h3 id="vision-detection">视觉检测</h3>
 
 * [tracking.js](https://github.com/eduardolundgren/tracking.js) - 在 web 上实现计算视觉的一种现代方法。
 * [ocrad.js](https://github.com/antimatter15/ocrad.js) - 通过 Emscripten 用 JavaScript 实现 OCR（光学字符识别）。
 
-## 浏览器检测
+<h3 id="browser-detection">浏览器检测</h3>
 
 * [bowser](https://github.com/ded/bowser) - 一个浏览器检测器。
 
-## 代码高亮
+## UI
+
+<h3 id="code-highlighting">代码高亮</h3>
 
 * [Highlight.js](https://github.com/isagalaev/highlight.js) - JavaScript 语法高亮器。
 * [PrismJS](https://github.com/LeaVerou/prism) - 轻量、健壮和优雅的语法高亮器。
 
-## 加载状态
+<h3 id="loading-status">加载状态</h3>
 
 指示加载状态的库。
 
@@ -515,7 +515,7 @@ Web 数据可视化工具
 
 除了上述这些库，还有收藏在 [Codepen](http://codepen.io/collection/HtAne/) 的，另外还有 [Ajaxload](http://www.ajaxload.info/)，[Preloaders](http://preloaders.net/) 和 [CSSLoad](http://cssload.net/) 这些生成器。
 
-## [](#validation)验证
+<h3 id="validation">验证</h3>
 
 * [Parsley.js](https://github.com/guillaumepotier/Parsley.js) - 不用写一行 JavaScript 代码即可在前端验证表单。
 * [jquery-validation](https://github.com/jzaefferer/jquery-validation) - jQuery 验证插件。
@@ -526,7 +526,7 @@ Web 数据可视化工具
 * [is.js](https://github.com/arasatasaygin/is.js) - 检查类型、正则表达式、是否存在、时间等。
 * [FieldVal](https://github.com/FieldVal/fieldval-js) - 多用途验证库。同时支持同步和异步验证。
 
-## 封装键盘功能
+<h3 id="keyboard-wrappers">键盘封装器</h3>
 
 * [mousetrap](https://github.com/ccampbell/mousetrap) - 处理键盘快捷键的 JavaScript 库。
 * [keymaster](https://github.com/madrobby/keymaster) - 定义和调度键盘快捷键的小型库。
@@ -535,7 +535,7 @@ Web 数据可视化工具
 * [jquery.hotkeys](https://github.com/jeresig/jquery.hotkeys) - jQuery Hotkeys 能让你在代码任何的地方监听键盘事件，并几乎支持所有按键组合。
 * [jwerty](https://github.com/keithamus/jwerty) - 令人惊叹的键盘事件处理库。
 
-## 浏览和引导
+<h3 id="tours-and-guides">浏览和引导</h3>
 
 * [intro.js](https://github.com/usablica/intro.js) - 这是一个介绍新功能的很好方式，能一步步地引导用户浏览你的网站和项目。
 * [shepherd](https://github.com/HubSpot/shepherd) - 通过引导让用户浏览你的应用程序。
@@ -547,7 +547,7 @@ Web 数据可视化工具
 * [joyride](https://github.com/zurb/joyride) - 基于 jQuery 的功能引导插件。
 * [focusable](https://github.com/zzarcon/focusable) - 通过向页面其余部分添加遮罩层，使焦点聚集在特定 DOM 元素。
 
-## 通知
+<h3 id="notifications">通知</h3>
 
 * [messenger](https://github.com/HubSpot/messenger) - 为你的应用添加 Growl-style 弹框和信息（Crowl 是 Mac OS X 下的一个通知系统）。
 * [noty](https://github.com/needim/noty) - jQuery 通知插件。
@@ -556,7 +556,7 @@ Web 数据可视化工具
 * [humane-js](https://github.com/wavded/humane-js) - 一个简单、时髦的浏览器通知系统。
 * [smoke.js](https://github.com/hxgf/smoke.js) - 与框架无关的、能够自定义样式的 JavaScript 弹框系统。
 
-## [](#sliders)幻灯片
+<h3 id="sliders">幻灯片</h3>
 
 * [Swiper](https://github.com/nolimits4web/Swiper) - 使用硬件加速过渡的移动设备触控滑块框架。
 * [slick](https://github.com/kenwheeler/slick) - 你所需要的最后一个轮播插件。
@@ -578,16 +578,16 @@ Web 数据可视化工具
 * [slidr](https://github.com/bchanx/slidr) - 可添加一些幻灯片效果。
 * [Flickity](https://github.com/metafizzy/flickity) - 可触摸的、响应式的和可轻弹的画廊。
 
-## 范围选择滑块
+<h3 id="range-sliders">滑块控件</h3>
 
 * [Ion.RangeSlider](https://github.com/IonDen/ion.rangeSlider) - 强大的、易于自定义的范围滑块选择库，支持很多配置和皮肤。
 * [jQRangeSlider](https://github.com/ghusse/jQRangeSlider) - 支持日期的滑块选择库。
 * [noUiSlider](https://github.com/leongersen/noUiSlider) - 轻量无冗余的、高度定制化的滑块选择库。
 * [rangeslider.js](https://github.com/andreruffert/rangeslider.js) - HTML5  input 区域滑块元素。
 
-## 表单组件
+<h3 id="form-widgets">表单组件</h3>
 
-### Input
+### 输入
 
 * [typeahead.js](https://github.com/twitter/typeahead.js) - 快速的、功能齐全的自动补全库。
 * [tag-it](https://github.com/aehlke/tag-it) - 处理多标签字段以及标签建议/自动完成的 jQuery UI 插件。
@@ -632,7 +632,7 @@ Web 数据可视化工具
 * [list.js](https://github.com/javve/list.js) - 向表格、列表等 HTML 元素添加搜索、排序、过滤和自适应功能的库。在已有 HTML 上增加可视化。[
  ](http://www.listjs.com/)
 
-## 提示
+<h3 id="tips">提示</h3>
 
 * [tipsy](https://github.com/jaz303/tipsy) - 基于 jQuery 的 Fackbook 风格的提示工具（tooltip）。
 * [opentip](https://github.com/enyo/opentip) - 开源且基于 prototype 框架的 JavaScript 工具提示库。
@@ -641,7 +641,7 @@ Web 数据可视化工具
 * [simptip](https://github.com/arashmanteghi/simptip) - 用 Sass 制作的、简单的工具提示。
 * [jquery-popup-overlay](https://github.com/vast-engineering/jquery-popup-overlay) - 是一个响应式的和可访问性强的模态框（modal）和工具提示框 jQuery 插件。
 
-## 模态框和弹出框（Modals and Popups）
+<h3 id="modals-and-popups">模态框和弹出框</h3>
 
 * [Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup) - 专注于性能、轻量、响应式的灯箱（lightbox）脚本。
 * [jquery-popbox](https://github.com/gristmill/jquery-popbox) - jQuery 提示框插件。
@@ -651,7 +651,7 @@ Web 数据可视化工具
 * [css-modal](https://github.com/drublic/css-modal) - 纯 CSS 打造的模态框。
 * [jquery-popup-overlay](https://github.com/vast-engineering/jquery-popup-overlay) - 是一个响应式的和可访问性强的模态框和工具提示框（tooltips）jQuery 插件。
 
-## 滚动
+<h3 id="scroll">滚动</h3>
 
 * [scrollMonitor](https://github.com/sakabako/scrollMonitor) - 滚动发生时，可以监听元素的、简单、快速的 API。
 * [headroom](https://github.com/WickyNilliams/headroom.js) - 除非你需要显示页面头部（header），否则将隐藏它，以腾出页面头部空间。
@@ -665,14 +665,14 @@ Web 数据可视化工具
 * [fullPage](https://github.com/alvarotrigo/fullPage.js) - 简单和易于使用的、用于创建全屏滚动网站的插件（也被称为单页面网站）。
 * [ScrollMenu](https://github.com/s-yadav/ScrollMenu) - 让老旧无聊的滚动条焕然一新。
 
-## 菜单
+<h3 id="menu">菜单</h3>
 
 * [jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim) - 当用户光标放在特定下拉菜单项时触发事件。可制作响应式的、大数据量的下拉菜单，如 Amazon 的。
 * [jQuery contextMenu](https://github.com/medialize/jQuery-contextMenu) - 右键菜单（contextMenu） 管理工具。
 * [Slideout](https://github.com/mango/slideout) - 为移动设备的 web 应用制作出响应式的、可触摸滑出的导航菜单。
 * [Slide and swipe](https://github.com/JoanClaret/slide-and-swipe-menu) - 一个基于 touchSwipe 库的滑出菜单插件。
 
-## 表格/网格
+<h3 id="table-grid">表格/栅格</h3>
 
 * [jTable](https://github.com/hikalkan/jtable) - 基于 CRUD 表创建 AJAX 的 jQuery 插件。
 * [DataTables](http://www.datatables.net/) - 这是一个非常灵活的工具，在渐进增强的基础上，将高级的交互效果加到 HTML 表格。（jQuery 插件）
@@ -681,17 +681,17 @@ Web 数据可视化工具
 * [Packery](http://packery.metafizzy.co/) - 使用装箱算法（bin-packing）的网格布局库。支持拖拽布局。
 * [Isotope](http://isotope.metafizzy.co/) - 可过滤和可排序的网格布局的库，它能实现 Masonry、Packery 等布局。
 
-## 框架
+<h3 id="frameworks-1">框架</h3>
 
 * [Semantic UI](http://semantic-ui.com/) - 拥有大量主题和元素的 UI 套件。
 
-## 手势
+<h3 id="gesture">手势</h3>
 
 * [hammer.js](https://github.com/hammerjs/hammer.js) - 拥有多种触摸手势的 JavaScript 库。
 * [touchemulator](https://github.com/hammerjs/touchemulator) - 在桌面电脑模仿触摸输入。
 * [Dragula](https://github.com/bevacqua/dragula/) - 超级易于使用的拖拽库。
 
-## 地图
+<h3 id="maps">地图</h3>
 
 * [Leaflet](https://github.com/Leaflet/Leaflet) - 对移动设备友好的、可交互的地图 JavaScript 库。
 * [Cesium](https://github.com/AnalyticalGraphicsInc/cesium) - 开源的、基于 WebGL 实现的虚拟地球仪和地图引擎。
@@ -702,7 +702,7 @@ Web 数据可视化工具
 * [jqvmap](https://github.com/manifestinteractive/jqvmap) - 矢量地图 jQuery 插件。
 * [OpenLayers3](http://openlayers.org/) - 高性能的、功能丰富的库，能满足你对地图所有需求。
 
-## 视频/音频
+<h3 id="video-audio">视频/音频</h3>
 
 * [prettyembed.js](https://github.com/mike-zarandona/prettyembed.js) - 更完美地嵌入 YouTube —— 拥有很好的选项，如高分辨率的预览图、嵌入选项的高级定制和可选的 FitVids 支持。
 * [html5media](https://github.com/etianen/html5media) - 能在所有主流浏览器播放多媒体标签中定义的多媒体文件。[http://html5media.info/](http://html5media.info/)
@@ -712,7 +712,7 @@ Web 数据可视化工具
 * [mediaelement](https://github.com/johndyer/mediaelement) - 让 HTML5、 Flash 播放器和模仿 HTML5 媒介元素 API 的 Silverlight shim，在所有浏览器拥有一致的 UI。[http://mediaelementjs.com/](http://mediaelementjs.com/)
 * [SoundJS](https://github.com/CreateJS/SoundJS) - 让音频在 web 上运行更简单的库。它为不同浏览器提供了一致的 API。
 
-## 动画
+<h3 id="animations">动画</h3>
 
 * [velocity](https://github.com/julianshapiro/velocity) - 加速 JavaScript 动画。
 * [jquery.transit](https://github.com/rstacruz/jquery.transit) - 拥有超级流畅的 CSS3 变换和过渡的 jQuery 插件。
@@ -722,13 +722,13 @@ Web 数据可视化工具
 * [TransitionEnd](https://github.com/EvandroLG/transitionEnd) - TransitionEnd 是一个运用 transitonend 事件的、跨浏览器的库。
 * [Dynamic.js](https://github.com/michaelvillar/dynamics.js) - 用于创建基于物理知识的 CSS 动画库。
 
-## 图像处理
+<h3 id="image-processing">图片处理</h3>
 
 * [lena.js](https://github.com/davidsonfellipe/lena.js) - 拥有滤镜和实用功能的图像处理库。
 * [pica](https://github.com/nodeca/pica) - 高质量地调整图片大小（拥有快速的、纯 JS 实现的 Lanczos 滤镜算法）。
 * [cropper](https://github.com/fengyuanchen/cropper) - 一个简单的图像裁剪 jQuery 插件。
 
-## ECMAScript 6
+<h3 id="es6">ECMAScript 6</h3>
 
 * [es6features](https://github.com/lukehoban/es6features) - ECMAScript 6 特性概述。
 * [es6-features](https://github.com/rse/es6-features) - ECMAScript 6:  特性概述和比较。
@@ -736,11 +736,11 @@ Web 数据可视化工具
 * [Babel (Formerly 6to5)](https://github.com/babel/babel) - 将 ES6+ 代码转换成纯 ES5。
 * [Traceur compiler](https://github.com/google/traceur-compiler) - ES6 特性转 ES5。包括 classes、generators、promises、destructuring patterns、default parameters 等。
 
-## 软件开发工具包
+<h3 id="sdk">软件开发工具包(SDK)</h3>
 
 * [javascript-sdk-design](http://github.com/huei90/javascript-sdk-design) - 从工作和个人经验中提炼出来的 JavaScript SDK 设计指导。
 
-## 大杂烩
+<h3 id="misc">大杂烩</h3>
 
 * [echo](https://github.com/toddmotto/echo) - 利用 data-* 属性延迟加载图片。
 * [picturefill](https://github.com/scottjehl/picturefill) - 响应式图片显示插件，使浏览器支持 srcset、size 属性。
@@ -749,10 +749,33 @@ Web 数据可视化工具
 * [Logical Or Not](http://gabinaureche.com/logicalornot/) - 一个关于 JavaScript 特性的游戏。
 * [BitSet.js](https://github.com/infusion/BitSet.js) - 实现位向量的 JavaScript 库。
 
-# 值得阅读
+<h2 id="worth-reading">精品阅读</h2>
 
 * [braziljs/js-the-right-way](https://github.com/braziljs/js-the-right-way/)
 * [JSbooks](https://github.com/revolunet/JSbooks)
 * [Superhero.js](http://superherojs.com/) - 关于创建、测试和维护一个大型 JavaScript 代码库的资源集。
 
- 
+<h1 id="resources">资源</h1>
+
+<h3 id="influential-books">有影响力的书</h3>
+*具有广泛影响且值得阅读的前端经典书籍。*
+
+*《[Limu：JavaScript 的那些书](http://web.jobbole.com/8087/)》
+
+<h3 id="weibo-weixin">微博、微信公众号</h3>
+* 前端大全 微博：[@前端大全](http://weibo.com/u/5261893910)
+* 前端大全：专注分享Web前端相关的内容，包括 JavaScript, CSS 和 HTML5 技术文章、工具资源、精选课程和Web技术领域热点资讯。
+<br>![](http://ww4.sinaimg.cn/small/63918611gw1epb2c688tqj2046046mx8.jpg)
+* UI设计达人：分享 UI 设计精选文章、案例、行业趋势、课程和书籍。<br>![](http://ww4.sinaimg.cn/mw690/bfdcef89gw1evuvyehtx4j2076076q3e.jpg)
+* 网页设计精选：分享网页设计精选文章、案例、行业趋势、课程和书籍。<br>![](http://ww2.sinaimg.cn/mw690/bfdcef89gw1evuvyhsikmj2076076dgb.jpg)
+
+<h3 id="websites">知名网站</h3>
+*值得关注的前端技术站点。*
+
+<h4>中文站点</h4>
+
+* [伯乐在线前端频道](http://web.jobbole.com/):伯乐前端分享 Web 前端开发，包括 JavaScript、CSS 和 HTML5 开发技术，前端相关的行业动态。
+
+<h4>英文站点</h4>
+
+待补充
