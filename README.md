@@ -4,11 +4,9 @@
 
 Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的介绍，如果有更详细的中文介绍，对相应开发者的帮助会更大。这也是我们发起这个开源项目的初衷。
 
- 
 
 *   [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript#awesome-javascript)
-
-        *   [Package Managers](https://github.com/sorrycc/awesome-javascript#package-managers)
+    *   [Package Managers](https://github.com/sorrycc/awesome-javascript#package-managers)
     *   [Loaders](https://github.com/sorrycc/awesome-javascript#loaders)
     *   [Bundlers](https://github.com/sorrycc/awesome-javascript#bundlers)
     *   [Testing Frameworks](https://github.com/sorrycc/awesome-javascript#testing-frameworks)
@@ -18,12 +16,11 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
     *   [Templating Engines](https://github.com/sorrycc/awesome-javascript#templating-engines)
     *   [Articles/Posts](https://github.com/sorrycc/awesome-javascript#articles-and-posts)
     *   [Data Visualization](https://github.com/sorrycc/awesome-javascript#data-visualization)
-
-                *   [Timeline](https://github.com/sorrycc/awesome-javascript#timeline)
+        *   [Timeline](https://github.com/sorrycc/awesome-javascript#timeline)
     *   [Editors](https://github.com/sorrycc/awesome-javascript#editors)
     *   Utilities
 
-                *   [Files](https://github.com/sorrycc/awesome-javascript#files)
+        *   [Files](https://github.com/sorrycc/awesome-javascript#files)
         *   [Functional Programming](https://github.com/sorrycc/awesome-javascript#functional-programming)
         *   [Reactive Programming](https://github.com/sorrycc/awesome-javascript#reactive-programming)
         *   [Data Structure](https://github.com/sorrycc/awesome-javascript#data-structure)
@@ -46,7 +43,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
         *   [Browser Detection](https://github.com/sorrycc/awesome-javascript#browser-detection)
     *   UI
 
-                *   [Code Highlighting](https://github.com/sorrycc/awesome-javascript#code-highlighting)
+        *   [Code Highlighting](https://github.com/sorrycc/awesome-javascript#code-highlighting)
         *   [Loading Status](https://github.com/sorrycc/awesome-javascript#loading-status)
         *   [Validation](https://github.com/sorrycc/awesome-javascript#validation)
         *   [Keyboard Wrappers](https://github.com/sorrycc/awesome-javascript#keyboard-wrappers)
@@ -62,8 +59,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
         *   [Table/Grid](https://github.com/sorrycc/awesome-javascript#tablegrid)
         *   [Frameworks](https://github.com/sorrycc/awesome-javascript#frameworks-1)
     *   Mobile
-
-                *   [Gesture](https://github.com/sorrycc/awesome-javascript#gesture)
+    *   [Gesture](https://github.com/sorrycc/awesome-javascript#gesture)
     *   [Maps](https://github.com/sorrycc/awesome-javascript#maps)
     *   [Animations](https://github.com/sorrycc/awesome-javascript#animations)
     *   [Image processing](https://github.com/sorrycc/awesome-javascript#image-processing)
