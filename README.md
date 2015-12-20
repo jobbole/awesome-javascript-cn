@@ -31,9 +31,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ### 本项目的参与者
 
-- 维护者：[tangyouhua](https://github.com/tangyouhua)
-
-- 贡献者：You
+- 维护者：
+- 贡献者：刘健超、MissNull、一兮、Mr. Somebody、Jason Lee
 
 注：名单不分排名，不定期补充更新
 
@@ -754,6 +753,15 @@ Web 数据可视化工具
 * [braziljs/js-the-right-way](https://github.com/braziljs/js-the-right-way/)
 * [JSbooks](https://github.com/revolunet/JSbooks)
 * [Superhero.js](http://superherojs.com/) - 关于创建、测试和维护一个大型 JavaScript 代码库的资源集。
+* 《[前端开发者都应知道的 jQuery 小技巧](http://web.jobbole.com/84028/)》
+* 《[常用的 Javascript 设计模式](http://web.jobbole.com/29454/)》
+* 《[10 个 jQuery 图表插件推荐](http://web.jobbole.com/21136/)》
+* 《[理解 JavaScript 原型](http://web.jobbole.com/9648/)》
+* 《[只有20行Javascript代码！手把手教你写一个页面模板引擎](http://web.jobbole.com/56689/)》
+* 《[编写快速、高效的JavaScript代码](http://web.jobbole.com/31951/)》
+* 《[45个实用的JavaScript技巧、窍门和最佳实践](http://web.jobbole.com/54495/)》
+* 《[为现代JavaScript开发做好准备](http://web.jobbole.com/66135/)》
+* 《[给JavaScript初学者的24条最佳实践](http://web.jobbole.com/53199/)》
 
 <h1 id="resources">资源</h1>
 
