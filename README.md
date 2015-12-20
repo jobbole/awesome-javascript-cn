@@ -9,8 +9,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ### 我们要做什么？
 
-- 基于 awesome-java 资源列表，我们将对各个资源项进行编译整理。
-- 整理后的内容，将收录在[伯乐在线资源频道](http://hao.jobbole.com/)。可参考已整理的内容：
+- 基于 awesome-javascript 资源列表，我们将对各个资源项进行编译整理。
+- 整理后的内容，将收录在[伯乐在线资源频道](http://hao.jobbole.com/)。可参考已整理的「Java 资源大全」内容：
   - 《[OWNER：Java配置文件解决方案](http://hao.jobbole.com/owner/)》
   - 《[Spring Boot：简化Spring应用初始搭建以及开发过程](http://hao.jobbole.com/spring-boot/)》
   - 《[SonarQube：开源的代码质量管理工具](http://hao.jobbole.com/sonarqube/)》
@@ -24,9 +24,9 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 不过加入前，有几个小要求：
 
 * 英文还不错，能读懂英文并用自己的话复述；
-* 在用 Java；
+* 在用 JavaScript；
 
-如有兴趣，请加 QQ：50872495。加 Q 时请注明「Java大全」
+如有兴趣，请加 QQ：_______。加 Q 时请注明「JS大全」
 
 * * *
 
@@ -42,7 +42,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 目录
 
 * [JavaScript资源大全中文版](#awesome-javascript-cn)
-  * [Package Managers](#package-managers)
+  * [包管理器](#package-managers)
   * [Loaders](#loaders)
   * [Bundlers](#bundlers)
   * [Testing Frameworks](#testing-frameworks)
@@ -55,7 +55,6 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
     * [Timeline](#timeline)
   * [Editors](#editors)
   * Utilities
-
     * [Files](#files)
     * [Functional Programming](#functional-programming)
     * [Reactive Programming](#reactive-programming)
@@ -78,7 +77,6 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
     * [Vision Detection](#vision-detection)
     * [Browser Detection](#browser-detection)
   * UI
-
     * [Code Highlighting](#code-highlighting)
     * [Loading Status](#loading-status)
     * [Validation](#validation)
@@ -108,7 +106,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * * *
 
-## [](#package-managers)包管理器
+<h2 id="#package-managers">包管理器</h2>
 
 管理着 javascript 库，并提供读取和打包它们的工具。
 
