@@ -226,8 +226,8 @@ JavaScript 的模块或加载系统。
 * [We.js](https://github.com/wejs/we/) - 适用于实时应用、网站或博客的框架。
 * [Hatch.js](https://github.com/inventures/hatchjs) - 拥有社交特性的 CMS 平台。
 * [TaracotJS](https://github.com/xtremespb/taracotjs-generator/) - 拥有快速、极简风格特点且基于Node.js 的 CMS。
-* [Nodizecms](https://github.com/nodize/nodizecms) - 为 CoffeeScript 爱好者准备的 CMS。
-* [Cody](https://github.com/jcoppieters/cody) - 拥有所见即所得的编辑器的 CMS。
+* [Nodizecms](https://github.com/nodize/nodizecms) - 为 CoffeeScript 爱好者准备的 CMS。
+* [Cody](https://github.com/jcoppieters/cody) - 拥有所见即所得的编辑器的 CMS。
 * [PencilBlue](https://github.com/pencilblue/pencilblue/) - CMS 和博客平台。
 
 <h2 id="templating-engines">模板引擎</h2>
@@ -300,7 +300,7 @@ Web 数据可视化工具
 * [ace](https://github.com/ajaxorg/ace) - Ace（Ajax.org Cloud9 Editor）。
 * [CodeMirror](https://github.com/marijnh/CodeMirror) - 浏览器端的代码编辑器。
 * [esprima](https://github.com/ariya/esprima) - 用于综合分析的 ECMAScript 解析器。
-* [quill](https://github.com/quilljs/quill) - 一个带有 API 的跨浏览器富文本编辑器。
+* [quill](http://hao.jobbole.com/quill/) - 一个带有 API 的跨浏览器富文本编辑器。([官网](http://quilljs.com/))
 * [medium-editor](https://github.com/daviferreira/medium-editor) - Medium.com 所见即所得编辑器的克隆版。
 * [pen](https://github.com/sofish/pen) - 享受在线编辑（支持 markdown）。
 * [jquery-notebook](https://github.com/raphaelcruzeiro/jquery-notebook) - 一个易用的、简洁优雅的文本编辑器。灵感来源于 Medium 的魅力。
@@ -775,7 +775,7 @@ Web 数据可视化工具
 
 <h4>中文站点</h4>
 
-* [伯乐在线前端频道](http://web.jobbole.com/):伯乐前端分享 Web 前端开发，包括 JavaScript、CSS 和 HTML5 开发技术，前端相关的行业动态。
+* [伯乐在线前端频道](http://web.jobbole.com/)：伯乐前端分享 Web 前端开发，包括 JavaScript、CSS 和 HTML5 开发技术，前端相关的行业动态。
 
 <h4>英文站点</h4>
 
