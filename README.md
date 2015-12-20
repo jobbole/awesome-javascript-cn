@@ -1,19 +1,18 @@
 # JavaScript 资源大全中文版
 
-我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。awesome-javascript 是 sorrycc 发起维护的 JS 资源列表，内容包括：包管理器、加载器、测试框架、运行器、QA、MVC框架和库、模板引擎、数据可视化、时间轴、编辑器等等。伯乐在线已经把 awesome-javascript 资源列表翻成中文后发布于 [伯乐在线前端频道](http://web.jobbole.com/84287/)。
+我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。awesome-javascript 是 sorrycc 发起维护的 JS 资源列表，内容包括：包管理器、加载器、测试框架、运行器、QA、MVC框架和库、模板引擎、数据可视化、时间轴、编辑器等等
 
 Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的介绍，如果有更详细的中文介绍，对相应开发者的帮助会更大。这也是我们发起这个开源项目的初衷。
-
 
 * * *
 
 ### 我们要做什么？
 
-- 基于 awesome-javascript 资源列表，我们将对各个资源项进行编译整理。
-- 整理后的内容，将收录在[伯乐在线资源频道](http://hao.jobbole.com/)。可参考已整理的「Java 资源大全」内容：
-  - 《[OWNER：Java配置文件解决方案](http://hao.jobbole.com/owner/)》
-  - 《[Spring Boot：简化Spring应用初始搭建以及开发过程](http://hao.jobbole.com/spring-boot/)》
-  - 《[SonarQube：开源的代码质量管理工具](http://hao.jobbole.com/sonarqube/)》
+- 基于 awesome-javascript 列表，我们将对其中的各个资源项进行编译整理。此外还将从其他来源补充好资源。
+- 整理后的内容，将收录在[伯乐在线资源频道](http://hao.jobbole.com/)。可参考已整理的内容：
+  - 《[jQWidgets：jQuery HTML5 UI组件框架](http://hao.jobbole.com/jqwidgets-jquery-html5-ui/)》
+  - 《[Bootstrap：Web前端开发框架](http://hao.jobbole.com/bootstrap/)》
+  - 《[YUI Compressor：JS/CSS压缩工具](http://hao.jobbole.com/yui-compressor/)》
 
 * * *
 
@@ -57,7 +56,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
     * [文件](#files)
     * [函数式编程](#functional-programming)
     * [响应式编程](#reactive-programming)
-    * [数据结构(#data-structure)
+    * [数据结构](#data-structure)
     * [日期](#date)
     * [字符串](#string)
     * [数字](#number)
@@ -762,13 +761,6 @@ Web 数据可视化工具
 
 *《[Limu：JavaScript 的那些书](http://web.jobbole.com/8087/)》
 
-<h3 id="weibo-weixin">微博、微信公众号</h3>
-* 前端大全 微博：[@前端大全](http://weibo.com/u/5261893910)
-* 前端大全：专注分享Web前端相关的内容，包括 JavaScript, CSS 和 HTML5 技术文章、工具资源、精选课程和Web技术领域热点资讯。
-<br>![](http://ww4.sinaimg.cn/small/63918611gw1epb2c688tqj2046046mx8.jpg)
-* UI设计达人：分享 UI 设计精选文章、案例、行业趋势、课程和书籍。<br>![](http://ww4.sinaimg.cn/mw690/bfdcef89gw1evuvyehtx4j2076076q3e.jpg)
-* 网页设计精选：分享网页设计精选文章、案例、行业趋势、课程和书籍。<br>![](http://ww2.sinaimg.cn/mw690/bfdcef89gw1evuvyhsikmj2076076dgb.jpg)
-
 <h3 id="websites">知名网站</h3>
 *值得关注的前端技术站点。*
 
@@ -779,3 +771,10 @@ Web 数据可视化工具
 <h4>英文站点</h4>
 
 待补充
+
+<h3 id="weibo-weixin">微博、微信公众号</h3>
+* 前端大全 微博：[@前端大全](http://weibo.com/u/5261893910)
+* 前端大全：专注分享Web前端相关的内容，包括 JavaScript, CSS 和 HTML5 技术文章、工具资源、精选课程和Web技术领域热点资讯。
+<br><img src="http://ww4.sinaimg.cn/small/63918611gw1epb2c688tqj2046046mx8.jpg" width=150 height=150>
+* UI设计达人：分享 UI 设计精选文章、案例、行业趋势、课程和书籍。<br><img src="http://ww4.sinaimg.cn/mw690/bfdcef89gw1evuvyehtx4j2076076q3e.jpg" width=150 height=150>
+* 网页设计精选：分享网页设计精选文章、案例、行业趋势、课程和书籍。<br><img src="http://ww2.sinaimg.cn/mw690/bfdcef89gw1evuvyhsikmj2076076dgb.jpg" width=150 height=150>
