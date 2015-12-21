@@ -333,7 +333,7 @@ Web 数据可视化工具
 * [mout](https://github.com/mout/mout) - 模块化的 JavaScript 工具库。
 * [mesh](https://github.com/mojo-js/mesh.js) - 流数据同步工具。
 
-<h3 id="reactive-programming">响应式编</h3>
+<h3 id="reactive-programming">响应式编程</h3>
 
 响应式程序库扩展了 JavaScript 的能力。
 
