@@ -1,6 +1,6 @@
 # JavaScript 资源大全中文版
 
-我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。awesome-javascript 是 sorrycc 发起维护的 JS 资源列表，内容包括：包管理器、加载器、测试框架、运行器、QA、MVC框架和库、模板引擎、数据可视化、时间轴、编辑器等等
+我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。[awesome-javascript](https://github.com/sorrycc/awesome-javascript) 是 sorrycc 发起维护的 JS 资源列表，内容包括：包管理器、加载器、测试框架、运行器、QA、MVC框架和库、模板引擎、数据可视化、时间轴、编辑器等等
 
 Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的介绍，如果有更详细的中文介绍，对相应开发者的帮助会更大。这也是我们发起这个开源项目的初衷。
 
@@ -25,7 +25,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * 英文还不错，能读懂英文并用自己的话复述；
 * 在用 JavaScript；
 
-如有兴趣，请加 QQ：_______。加 Q 时请注明「JS大全」
+如有兴趣，请加 QQ：50872495。加 Q 时请注明「JS大全」
 
 * * *
 
