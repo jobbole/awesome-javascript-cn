@@ -159,6 +159,8 @@ JavaScript 的模块或加载系统。
 * [chai](https://github.com/chaijs/chai) - 适用于 node.js 和浏览器的 BDD / TDD 断言框架，并能搭配其它测试框架使用。
 * [Sinon.JS](https://github.com/cjohansen/Sinon.JS) - 对 JavaScript 进行 spies、stubs 和 mock 测试。
 * [expect.js](https://github.com/LearnBoost/expect.js) - 简约的、适用于 Node.js 和浏览器端的 BDD 式断言工具。
+* [should.js](https://github.com/tj/should.js
+* ) - 适用于 Node.js 的 BDD 式断言工具。
 
 ### 覆盖率
 
