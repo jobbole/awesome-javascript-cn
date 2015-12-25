@@ -32,7 +32,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 本项目的参与者
 
 - 维护者：
-- 贡献者：刘健超、MissNull、一兮、Mr. Somebody、Jason Lee
+- 贡献者：刘健超、MissNull、一兮、Mr. Somebody、Jason Lee、[Tab_Gre](http://www.jobbole.com/members/ivanberry/)、[GavinZhang](http://www.jobbole.com/members/KeepMoving/)、[shadowkimi520](https://github.com/shadowkimi520/)、[zhoutk](http://www.jobbole.com/members/zhoutk/)
 
 注：名单不分排名，不定期补充更新
 
@@ -212,7 +212,7 @@ JavaScript 的模块或加载系统。
 * rivets：轻量却拥有强大的数据绑定和模板解决方案[官网](https://github.com/mikeric/rivets)
 * derby：让编写实时和协同应用更简单的 MVC 框架，能够在 Node.js 和浏览器同时运行。[官网](https://github.com/derbyjs/derby)
     * derby-awesome：很棒的 derby 组件集合。[官网](https://github.com/onerussell/awesome-derby)
-* way.js：简单、轻量、持久化的双向数据绑定。[官网](https://github.com/gwendall/way.js)
+* [way.js](http://hao.jobbole.com/way-js/)：简单、轻量、持久化的双向数据绑定。[官网](https://github.com/gwendall/way.js)
 * mithril.js：Mithril 是一个客户端 MVC 框架（轻量、强大和快速）[官网](https://github.com/lhorie/mithril.js)
 * jsblocks：jsblocks 是一个更好的 MV-ish 框架。[官网](https://github.com/astoilkov/jsblocks)
 * LiquidLava：易懂的、用于构建用户界面的 MVC 框架。[官网](http://www.lava-framework.com/)
@@ -325,7 +325,7 @@ Web 数据可视化工具
 
 函数式编程库扩展了 JavaScript 的能力。
 
-* underscore：JavaScript 的实用工具。[官网](https://github.com/jashkenas/underscore)
+* [underscore](http://hao.jobbole.com/underscore/)：JavaScript 的实用工具。[官网](https://github.com/jashkenas/underscore)
 * lodash：提供一致性、可定制、高性能和额外功能的实用库。[官网](https://github.com/lodash/lodash)
 * Sugar：一个扩展了原生对象功能的 JavaScript 库。[官网](https://github.com/andrewplummer/Sugar)
 * lazy.js：类似 Underscore，但性能更优越[官网](https://github.com/dtao/lazy.js)
@@ -522,7 +522,7 @@ Web 数据可视化工具
 * validate.js：受 CodeIgniter 启发的轻量表单验证 JavaScript 库。[官网](https://github.com/rickharrison/validate.js)
 * validatr：跨浏览器的 HTML5 表单验证库。[官网](https://github.com/jaymorrow/validatr/)
 * BootstrapValidator：是验证表单域中最好的 jQuery 插件。要与 Bootstrap 3 一起使用。[官网](https://github.com/nghuuphuoc/bootstrapvalidator)
-* is.js：检查类型、正则表达式、是否存在、时间等。[官网](https://github.com/arasatasaygin/is.js)
+* [is.js](http://hao.jobbole.com/is-js/)：检查类型、正则表达式、是否存在、时间等。[官网](https://github.com/arasatasaygin/is.js)
 * FieldVal：多用途验证库。同时支持同步和异步验证。[官网](https://github.com/FieldVal/fieldval-js)
 
 <h3 id="keyboard-wrappers">键盘封装器</h3>
@@ -704,7 +704,7 @@ Web 数据可视化工具
 <h3 id="video-audio">视频/音频</h3>
 
 * prettyembed.js：更完美地嵌入 YouTube —— 拥有很好的选项，如高分辨率的预览图、嵌入选项的高级定制和可选的 [官网](https://github.com/mike-zarandona/prettyembed.js)FitVids 支持。
-* html5media：能在所有主流浏览器播放多媒体标签中定义的多媒体文件。[官网](https://github.com/etianen/html5media)
+* [html5media](http://hao.jobbole.com/html5media/)：能在所有主流浏览器播放多媒体标签中定义的多媒体文件。[官网](https://github.com/etianen/html5media)
 * Play-em JS：Play'em 是一个 JavaScript 组件，它能管理音乐/视频播放顺序，通过在一个 DIV 元素里嵌入几个播放器（Youtube、Soundcloud 和 Vimeo）来控制一系列歌曲的播放。[官网](https://github.com/adrienjoly/playemjs)
 * polyplayer：将 YouTube、Soundcloud 和 Vimeo 播放器的 API 统一成一套。[官网](https://github.com/Acconut/polyplayer)
 * flowplayer： HTML5 视频播放器 [官网](http://flowplayer.org/)、[Github](https://github.com/flowplayer/flowplayer)
@@ -729,7 +729,7 @@ Web 数据可视化工具
 
 <h3 id="es6">ECMAScript 6</h3>
 
-* es6features：ECMAScript 6 特性概述。[官网](https://github.com/lukehoban/es6features)
+* [es6features](http://hao.jobbole.com/ecmascript-6/)：ECMAScript 6 特性概述。[官网](https://github.com/lukehoban/es6features)
 * es6-features：ECMAScript 6:  特性概述和比较。[官网](https://github.com/rse/es6-features)
 * ECMAScript 6 compatibility table ：Compatibility tables 展示了各种平台上所有 ECMAScript 6 特性的支持程度。[官网](http://kangax.github.io/compat-table/es6/)
 * Babel (Formerly 6to5)：将 ES6+ 代码转换成纯 ES5。[官网](https://github.com/babel/babel)
