@@ -159,6 +159,7 @@ JavaScript 的模块或加载系统。
 * chai：适用于 node.js 和浏览器的 BDD / TDD 断言框架，并能搭配其它测试框架使用。[官网](https://github.com/chaijs/chai)
 * Sinon.JS：对 JavaScript 进行 spies、stubs 和 mock 测试。[官网](https://github.com/cjohansen/Sinon.JS)
 * expect.js：简约的、适用于 Node.js 和浏览器端的 BDD 式断言工具。[官网](https://github.com/LearnBoost/expect.js)
+* should.js：适用于 Node.js 的 BDD 式断言工具。[官网](https://github.com/tj/should.js)
 
 ### 覆盖率
 
@@ -333,7 +334,7 @@ Web 数据可视化工具
 * mout：模块化的 JavaScript 工具库。[官网](https://github.com/mout/mout)
 * mesh：流数据同步工具。[官网](https://github.com/mojo-js/mesh.js)
 
-<h3 id="reactive-programming">响应式编</h3>
+<h3 id="reactive-programming">响应式编程</h3>
 
 响应式程序库扩展了 JavaScript 的能力。
 
