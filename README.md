@@ -32,7 +32,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 本项目的参与者
 
 - 维护者：
-- 贡献者：刘健超、MissNull、一兮、Mr. Somebody、Jason Lee、[Tab_Gre](http://www.jobbole.com/members/ivanberry/)、[GavinZhang](http://www.jobbole.com/members/KeepMoving/)、[shadowkimi520](https://github.com/shadowkimi520/)、[zhoutk](http://www.jobbole.com/members/zhoutk/)
+- 贡献者：刘健超、MissNull、一兮、Mr. Somebody、Jason Lee、[Tab_Gre](http://www.jobbole.com/members/ivanberry/)、[GavinZhang](http://www.jobbole.com/members/KeepMoving/)、[shadowkimi520](https://github.com/shadowkimi520/)、[zhoutk](http://www.jobbole.com/members/zhoutk/)、[tzstone](http://www.jobbole.com/members/tzstone)、[Erichain](http://www.jobbole.com/members/Erichain)
 
 注：名单不分排名，不定期补充更新
 
@@ -191,7 +191,7 @@ JavaScript 的模块或加载系统。
 
 <h2 id="mvc-frameworks-and-libraries">MVC 框架和库</h2>
 
-* angular.js ：为网络应用增强 HTML。[官网](https://github.com/angular/angular.js)
+* angular.js：为网络应用增强 HTML。[官网](https://github.com/angular/angular.js)
 * aurelia：一个适用于移动设备、桌面电脑和 web 的客户端 JavaScript 框架。[官网](http://aurelia.io/)
 * backbone：给你的 JS 应用加入带有 Models、Views、Collections 和 Events 的 Backbone。[官网](https://github.com/jashkenas/backbone)
 * batman.js：最适合 Rails 开发者的 JavaScript 框架。[官网](http://batmanjs.org/)
@@ -444,6 +444,7 @@ Web 数据可视化工具
 * pathjs：简单、轻量的 web 路由器。[官网](https://github.com/mtrpcic/pathjs)
 * crossroads：JavaScript 路由。[官网](https://github.com/millermedeiros/crossroads.js)
 * davis.js：使用 pushState、RESTful 风格和可降级的 JavaScript 路由器。[官网](https://github.com/olivernn/davis.js)
+* angular-ui-router：基于AngularJS的可嵌套路由。[官网](http://angular-ui.github.io/ui-router/)
 
 <h3 id="security">安全性</h3>
 
@@ -745,7 +746,7 @@ Web 数据可视化工具
 * echo：利用 data-* 属性延迟加载图片。[官网](https://github.com/toddmotto/echo)
 * picturefill：响应式图片显示插件，使浏览器支持 srcset、size 属性。[官网](https://github.com/scottjehl/picturefill)
 * platform.js：一个平台检测库，几乎适用于所有 JavaScript 平台。[官网](https://github.com/bestiejs/platform.js)
-* json3：一个现代 JSON 实现库，几乎兼容所有 JavaScript 平台。[官网](https://github.com/bestiejs/json3)
+* [json3](http://hao.jobbole.com/json3/)：一个现代 JSON 实现库，几乎兼容所有 JavaScript 平台。[官网](https://github.com/bestiejs/json3)
 * Logical Or Not：一个关于 JavaScript 特性的游戏。[官网](http://gabinaureche.com/logicalornot/)
 * BitSet.js：实现位向量的 JavaScript 库。[官网](https://github.com/infusion/BitSet.js)
 
