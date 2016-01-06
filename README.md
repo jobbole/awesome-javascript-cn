@@ -114,7 +114,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * npm：npm 是 javascript 的包管理器。[官网](https://www.npmjs.com/)
 * Bower：一个 web 应用的包管理器。[官网](https://github.com/bower/bower)
-* component：能构建更好 web 应用的客户端包管理器。[官网](https://github.com/component/component)
+* component：能构建更好 web 应用的客户端包管理器。[官网](https://github.com/componentjs/component)
 * spm：全新的静态包管理器。[官网](https://github.com/spmjs/spm)
 * jam：一个专注于浏览器端和兼容 RequireJS 的包管理器。[官网](https://github.com/caolan/jam)
 * jspm：流畅的浏览器包管理器。[官网](https://github.com/jspm/jspm-cli)
@@ -147,18 +147,18 @@ JavaScript 的模块或加载系统。
 
 ### 框架
 
-* mocha：适用于 node.js 和浏览器、简易、灵活、有趣的 JavaScript 测试框架。[官网](https://github.com/visionmedia/mocha)
-* jasmine：简单无 DOM 的 JavaScript 测试框架。[官网](https://github.com/pivotal/jasmine)
+* mocha：适用于 node.js 和浏览器、简易、灵活、有趣的 JavaScript 测试框架。[官网](https://github.com/mochajs/mocha)
+* jasmine：简单无 DOM 的 JavaScript 测试框架。[官网](https://github.com/jasmine/jasmine)
 * qunit：一个易于使用的 JavaScript 单元测试框架。[官网](https://github.com/jquery/qunit)
-* jest：简单的 JavaScript 单元测试框架。[官网](http://github.com/facebook/jest)
-* prova：基于 Tape 和 Browserify 的测试运行器，它适用于 Node &amp; 浏览器。[官网](http://github.com/azer/prova)
+* jest：简单的 JavaScript 单元测试框架。[官网](https://github.com/facebook/jest)
+* prova：基于 Tape 和 Browserify 的测试运行器，它适用于 Node &amp; 浏览器。[官网](https://github.com/azer/prova)
 * DalekJS：自动化且跨浏览器的 JavaScript 功能测试框架。[官网](https://github.com/dalekjs/dalek)
 
 ### 断言
 
 * chai：适用于 node.js 和浏览器的 BDD / TDD 断言框架，并能搭配其它测试框架使用。[官网](https://github.com/chaijs/chai)
-* Sinon.JS：对 JavaScript 进行 spies、stubs 和 mock 测试。[官网](https://github.com/cjohansen/Sinon.JS)
-* expect.js：简约的、适用于 Node.js 和浏览器端的 BDD 式断言工具。[官网](https://github.com/LearnBoost/expect.js)
+* Sinon.JS：对 JavaScript 进行 spies、stubs 和 mock 测试。[官网](https://github.com/sinonjs/sinon)
+* expect.js：简约的、适用于 Node.js 和浏览器端的 BDD 式断言工具。[官网](https://github.com/Automattic/expect.js)
 * should.js：适用于 Node.js 的 BDD 式断言工具。[官网](https://github.com/tj/should.js)
 
 ### 覆盖率
@@ -175,7 +175,7 @@ JavaScript 的模块或加载系统。
 * zombie：基于 node.js 、快速、全栈且无图形界面的浏览器的测试工具。[官网](https://github.com/assaf/zombie)
 * totoro：一个简单可靠且能跨浏览器运行的测试工具。[官网](https://github.com/totorojs/totoro)
 * karma：一个优秀的的 JavaScript 测试运行器。[官网](https://github.com/karma-runner/karma)
-* nightwatch：基于 node.js 和 selenium webdriver 的图形界面自动化测试框架。[官网](https://github.com/beatfactor/nightwatch)
+* nightwatch：基于 node.js 和 selenium webdriver 的图形界面自动化测试框架。[官网](https://github.com/nightwatchjs/nightwatch)
 * intern：下一代 JavaScript 代码测试栈。[官网](https://github.com/theintern/intern)
 * yolpo：在浏览器逐句执行的 JavaScript 解释器。[官网](http://www.yolpo.com/)
 
@@ -198,11 +198,11 @@ JavaScript 的模块或加载系统。
 * ember.js：一个旨在创建非凡 web 应用的 JavaScript 框架。[官网](https://github.com/emberjs/ember.js)
 * meteor：一个超简单的、数据库无处不在的、只传输数据的纯 JavaScript web 框架。[官网](https://github.com/meteor/meteor)
 * ractive：新一代 DOM 操作。[官网](https://github.com/ractivejs/ractive)
-* vue：一个用于构建可交互界面的、直观快速和可组合的 MVVM 框架。[官网](https://github.com/yyx990803/vue) 
+* vue：一个用于构建可交互界面的、直观快速和可组合的 MVVM 框架。[官网](https://github.com/vuejs/vue) 
 * knockout：Knockout 用 JavaScript 让创建响应式的富 UI 更加容易。[官网](https://github.com/knockout/knockout) 
 * spine：构建 JavaScript 应用的轻量 MVC 库。[官网](https://github.com/spine/spine)
 * espresso.js：一个极小的、用于制作用户界面的 JavaScript 库。[官网](https://github.com/techlayer/espresso.js)
-* canjs：让 JS 更好、更快、更简单。[官网](https://github.com/bitovi/canjs)
+* canjs：让 JS 更好、更快、更简单。[官网](https://github.com/canjs/canjs)
 * react：用于建构用户界面的库。它是声明式的、高效的和极度灵活的，并使用虚拟 DOM 作为其不同的实现。[官网](https://facebook.github.io/react/)
 * react-native：一个用 React 构建原生应用的框架。[官网](https://github.com/facebook/react-native)
 * riot：类 React 库，但很轻量。[官网](https://github.com/riot/riot)
@@ -212,7 +212,7 @@ JavaScript 的模块或加载系统。
 * ripple：一个小巧的、用于构建响应界面的基础框架。[官网](https://github.com/ripplejs/ripple)
 * rivets：轻量却拥有强大的数据绑定和模板解决方案[官网](https://github.com/mikeric/rivets)
 * derby：让编写实时和协同应用更简单的 MVC 框架，能够在 Node.js 和浏览器同时运行。[官网](https://github.com/derbyjs/derby)
-    * derby-awesome：很棒的 derby 组件集合。[官网](https://github.com/onerussell/awesome-derby)
+    * derby-awesome：很棒的 derby 组件集合。[官网](https://github.com/russll/awesome-derby)
 * [way.js](http://hao.jobbole.com/way-js/)：简单、轻量、持久化的双向数据绑定。[官网](https://github.com/gwendall/way.js)
 * mithril.js：Mithril 是一个客户端 MVC 框架（轻量、强大和快速）[官网](https://github.com/lhorie/mithril.js)
 * jsblocks：jsblocks 是一个更好的 MV-ish 框架。[官网](https://github.com/astoilkov/jsblocks)
@@ -243,7 +243,7 @@ JavaScript 的模块或加载系统。
 * eco：嵌入式的 CoffeeScript 模板。[官网](https://github.com/sstephenson/eco/)
 * JavaScript-Templates：轻量（小于 1KB）、快速且无依赖的强大 JavaScript 模版引擎。[官网](https://github.com/blueimp/JavaScript-Templates)
 * t.js：小巧的 JavaScript 模板框架，压缩后约为 400 字节。[官网](https://github.com/jasonmoo/t.js)
-* Jade：健壮的、优雅且功能丰富的 nodejs 模板引擎。[官网](https://github.com/jadejs/jade)
+* Jade：健壮的、优雅且功能丰富的 nodejs 模板引擎。[官网](https://github.com/pugjs/jade)
 * EJS：高效的 JavaScript 模板。[官网](https://github.com/mde/ejs)
 * xtemplate：可扩展的模板引擎，适用于 node 和浏览器。[官网](https://github.com/xtemplate/xtemplate)
 * marko：快速轻量且基于 HTML 的模板引擎，支持异步、流、自定义标签和 CommonJS 模编译后输出。适用于 Node.js [官网](https://github.com/marko-js/marko)和浏览器。
@@ -285,11 +285,11 @@ Web 数据可视化工具
 * d4：一个基于 D3 、友好、可复用的 DSL 图表库 。[官网](https://github.com/heavysixer/d4)
 * dimple.js：基于 d3 的简易商业分析图表库。[官网](http://dimplejs.org/)
 * chartist-js：简单的响应式图表。[官网](https://github.com/gionkunz/chartist-js)
-* epoch：一个通用的实时图表库。[官网](https://github.com/fastly/epoch)
+* epoch：一个通用的实时图表库。[官网](https://github.com/epochjs/epoch)
 * c3：基于 D3 的可复用图表库。[官网](https://github.com/masayuki0812/c3)
 * BabylonJS：一个运用 HTML5 和 WebGL 构建 3D 游戏的框架。[官网](https://github.com/BabylonJS/Babylon.js)
 
-也有一些很棒的收费库，如 [amchart](http://www.amcharts.com/)、[plotly](https://www.plot.ly/) 和 [highchart](http://www.highcharts.com/)。
+也有一些很棒的收费库，如 [amchart](https://www.amcharts.com/)、[plotly](https://plot.ly/) 和 [highchart](http://www.highcharts.com/)。
 
 <h3 id="timeline">时间轴</h3>
 
@@ -299,10 +299,10 @@ Web 数据可视化工具
 <h2 id="editors">编辑器</h2>
 
 * ace：Ace（Ajax.org Cloud9 Editor）。[官网](https://github.com/ajaxorg/ace)
-* CodeMirror：浏览器端的代码编辑器。[官网](https://github.com/marijnh/CodeMirror)
+* CodeMirror：浏览器端的代码编辑器。[官网](https://github.com/codemirror/CodeMirror)
 * esprima：用于综合分析的 ECMAScript 解析器。[官网](https://github.com/ariya/esprima)
 * [quill](http://hao.jobbole.com/quill/)：一个带有 API 的跨浏览器富文本编辑器。([官网](http://quilljs.com/))
-* medium-editor：Medium.com 所见即所得编辑器的克隆版。[官网](https://github.com/daviferreira/medium-editor)
+* medium-editor：Medium.com 所见即所得编辑器的克隆版。[官网](https://github.com/yabwe/medium-editor)
 * pen：享受在线编辑（支持 markdown）。[官网](https://github.com/sofish/pen)
 * jquery-notebook：一个易用的、简洁优雅的文本编辑器。灵感来源于 Medium 的魅力。[官网](https://github.com/raphaelcruzeiro/jquery-notebook)
 * bootstrap-wysiwyg：小巧的、兼容 bootstrap 的所见即所得的富文本编辑器。[官网](https://github.com/mindmup/bootstrap-wysiwyg)
@@ -332,7 +332,7 @@ Web 数据可视化工具
 * lazy.js：类似 Underscore，但性能更优越[官网](https://github.com/dtao/lazy.js)
 * ramda：一个针对 JavaScript 程序员的实用函数库。[官网](https://github.com/CrossEye/ramda)
 * mout：模块化的 JavaScript 工具库。[官网](https://github.com/mout/mout)
-* mesh：流数据同步工具。[官网](https://github.com/mojo-js/mesh.js)
+* mesh：流数据同步工具。[官网](https://github.com/crcn/mesh.js)
 
 <h3 id="reactive-programming">响应式编程</h3>
 
@@ -350,7 +350,7 @@ Web 数据可视化工具
 
 * immutable-js：不可变的数据集合，包括 Sequence、Range、Repeat、Map、OrderedMap、Set 和 sparse Vector。[官网](https://github.com/facebook/immutable-js)
 * mori：使用 ClojureScript 持久化数据结构和支持原生 JavaScript API 的库。[官网](https://github.com/swannodette/mori)
-* buckets：完整的、经过充分测试和记录数据结构的 JavaScript 库。[官网](https://github.com/mauriciosantos/buckets)
+* buckets：完整的、经过充分测试和记录数据结构的 JavaScript 库。[官网](https://github.com/mauriciosantos/Buckets-JS)
 * hashmap：简单的 hashmap 实现，支持任何类型的键值。[官网](https://github.com/flesler/hashmap)
 
 <h3 id="date">日期</h3>
@@ -362,7 +362,7 @@ Web 数据可视化工具
 * jquery-timeago：一款支持自动更新模糊时间戳的 jQuery 插件（如："4 分钟之前"）。[官网](https://github.com/rmm5t/jquery-timeago)
 * timezone-js：让 JavaScript Date 对象拥有时区功能。使用 Olson zoneinfo 文件记录着时区数据。[官网](https://github.com/mde/timezone-js)
 * date：拥有人性化的 Date() 方法。[官网](https://github.com/MatthewMueller/date)
-* ms.js：小巧的毫秒转换工具。[官网](https://github.com/guille/ms.js)
+* ms.js：小巧的毫秒转换工具。[官网](https://github.com/rauchg/ms.js)
 
 <h3 id="string">字符串</h3>
 
@@ -407,7 +407,7 @@ Web 数据可视化工具
 
 * randomColor：JavaScript 颜色生成器。[官网](https://github.com/davidmerfield/randomColor)
 * chroma.js：拥有各种各样颜色操作的 JavaScript 库。[官网](https://github.com/gka/chroma.js)
-* color：JavaScript 颜色转换和操作库。[官网](https://github.com/harthur/color)
+* color：JavaScript 颜色转换和操作库。[官网](https://github.com/MoOx/color)
 * colors：更智能的默认 web 颜色。[官网](https://github.com/mrmrs/colors)
 * PleaseJS：随机创建出赏心悦目的颜色和配色方案。[官网](https://github.com/Fooidge/PleaseJS)
 * TinyColor：快速、轻巧的颜色操作和转换库。[官网](https://github.com/bgrins/TinyColor)
@@ -417,7 +417,7 @@ Web 数据可视化工具
 
 本地化和国际化 JavaScript 库
 
-* i18next：JavaScript 最简单的国际化（i18n）方法。[官网](https://github.com/jamuhl/i18next)
+* i18next：JavaScript 最简单的国际化（i18n）方法。[官网](https://github.com/i18next/i18next)
 * polyglot：小巧的国际化助手库。[官网](https://github.com/airbnb/polyglot.js)
 * babelfish：i18n 提供友好易懂的 API ，并且内置多种支持。[官网](https://github.com/nodeca/babelfish/)
 
@@ -495,7 +495,7 @@ Web 数据可视化工具
 <h3 id="code-highlighting">代码高亮</h3>
 
 * Highlight.js：JavaScript 语法高亮器。[官网](https://github.com/isagalaev/highlight.js)
-* PrismJS：轻量、健壮和优雅的语法高亮器。[官网](https://github.com/LeaVerou/prism)
+* PrismJS：轻量、健壮和优雅的语法高亮器。[官网](https://github.com/PrismJS/prism)
 
 <h3 id="loading-status">加载状态</h3>
 
@@ -604,14 +604,14 @@ Web 数据可视化工具
 * pickadate.js：对移动设备友好的、响应式的和轻量的 jQuery 日期 &amp; 时间输入选择器。[官网](https://github.com/amsul/pickadate.js)
 * bootstrap-datepicker：基于 bootstrap 的日历选择器。[官网](https://github.com/eternicode/bootstrap-datepicker)
 * Pikaday：一个崭新的 JavaScript 日期选择器 —— 轻量、无依赖和模块化的 CSS。[官网](https://github.com/dbushell/Pikaday)
-* fullcalendar：全尺寸、支持拖放事件的日历（jQuery 插件）。[官网](https://github.com/arshaw/fullcalendar)
+* fullcalendar：全尺寸、支持拖放事件的日历（jQuery 插件）。[官网](https://github.com/fullcalendar/fullcalendar)
 * rome：可定制的日期（和时间）选择器。无依赖，可选 UI。[官网](https://github.com/bevacqua/rome)
 * datedropper： datedropper 是一个 jQuery 插件，它提供了快速简易的方式去管理日期输入框。[官网](https://github.com/felicegattuso/datedropper)
 
 ### 选择
 
 * selectize.js：Selectize 是文本框和选择框的混合体。它基于jQuery，拥有自动完成和键盘感应下拉列表功能，可用于标签、联系人列表等。[官网](https://github.com/brianreavis/selectize.js)
-* select2：它基于 jQuery，是选择框（select box）的替代品。支持搜索、远程数据集和无限滚动。[官网](https://github.com/ivaynberg/select2)
+* select2：它基于 jQuery，是选择框（select box）的替代品。支持搜索、远程数据集和无限滚动。[官网](https://github.com/select2/select2)
 * chosen：可以让冗长不便的选择框更友好的库。[官网](https://github.com/harvesthq/chosen)
 
 ### 文件上传
@@ -619,7 +619,7 @@ Web 数据可视化工具
 * jQuery-File-Upload：File Upload 是一个支持多文件选择、文件拖放、进度条、验证和图片、音频、视频预览的 [官网](https://github.com/blueimp/jQuery-File-Upload)jQuery 插件。
 * dropzone：Dropzone 是一个易于使用且支持多文件拖放的库。其支持图片预览并且拥有很好的进度条效果。[官网](https://github.com/enyo/dropzone)
 * flow.js：一个通过 HTML5 的 File API ，提供多个同时链接的、稳定的、容错的、可恢复的/可重新开始的文件上传库。[官网](https://github.com/flowjs/flow.js)
-* fine-uploader：一个带有进度条、拖放功能和支持直接上传到 S3 （Amazon Simple Storage Service，亚马逊简易存储服务）的多文件上传插件。[官网](https://github.com/Widen/fine-uploader)
+* fine-uploader：一个带有进度条、拖放功能和支持直接上传到 S3 （Amazon Simple Storage Service，亚马逊简易存储服务）的多文件上传插件。[官网](https://github.com/FineUploader/fine-uploader)
 * FileAPI：JavaScript 文件工具集合。支持多文件上传、拖放和文件分块上传。对于图像，支持裁剪、调整大小和根据 [EXIF](http://baike.baidu.com/view/22006.htm) 自动调整方向。[官网](https://github.com/mailru/FileAPI)
 * plupload：处理文件上传的 JavaScript [官网](https://github.com/moxiecode/plupload)API，其支持多文件选择、文件类型过滤、分块请求、客户端图片缩放和根据不同的运行环境选择 HTML5、Silverlight 和 Flash。
 
@@ -669,7 +669,7 @@ Web 数据可视化工具
 <h3 id="menu">菜单</h3>
 
 * jQuery-menu-aim：当用户光标放在特定下拉菜单项时触发事件。可制作响应式的、大数据量的下拉菜单，如 Amazon 的。[官网](https://github.com/kamens/jQuery-menu-aim)
-* jQuery contextMenu：右键菜单（contextMenu） 管理工具。[官网](https://github.com/medialize/jQuery-contextMenu)
+* jQuery contextMenu：右键菜单（contextMenu） 管理工具。[官网](https://github.com/swisnl/jQuery-contextMenu)
 * Slideout：为移动设备的 web 应用制作出响应式的、可触摸滑出的导航菜单。[官网](https://github.com/mango/slideout)
 * Slide and swipe：一个基于 touchSwipe 库的滑出菜单插件。[官网](https://github.com/JoanClaret/slide-and-swipe-menu)
 
@@ -709,7 +709,7 @@ Web 数据可视化工具
 * [html5media](http://hao.jobbole.com/html5media/)：能在所有主流浏览器播放多媒体标签中定义的多媒体文件。[官网](https://github.com/etianen/html5media)
 * Play-em JS：Play'em 是一个 JavaScript 组件，它能管理音乐/视频播放顺序，通过在一个 DIV 元素里嵌入几个播放器（Youtube、Soundcloud 和 Vimeo）来控制一系列歌曲的播放。[官网](https://github.com/adrienjoly/playemjs)
 * polyplayer：将 YouTube、Soundcloud 和 Vimeo 播放器的 API 统一成一套。[官网](https://github.com/Acconut/polyplayer)
-* flowplayer： HTML5 视频播放器 [官网](http://flowplayer.org/)、[Github](https://github.com/flowplayer/flowplayer)
+* flowplayer： HTML5 视频播放器 [官网](https://flowplayer.org/)、[Github](https://github.com/flowplayer/flowplayer)
 * mediaelement：让 HTML5、 Flash 播放器和模仿 HTML5 媒介元素 API 的 Silverlight shim，在所有浏览器拥有一致的 UI。[官网](http://mediaelementjs.com/)、[Github](https://github.com/johndyer/mediaelement)
 * SoundJS：让音频在 web 上运行更简单的库。它为不同浏览器提供了一致的 API。[官网](https://github.com/CreateJS/SoundJS)
 
@@ -739,7 +739,7 @@ Web 数据可视化工具
 
 <h3 id="sdk">软件开发工具包(SDK)</h3>
 
-* javascript-sdk-design：从工作和个人经验中提炼出来的 JavaScript SDK 设计指导。[官网](http://github.com/huei90/javascript-sdk-design)
+* javascript-sdk-design：从工作和个人经验中提炼出来的 JavaScript SDK 设计指导。[官网](https://github.com/huei90/javascript-sdk-design)
 
 <h3 id="misc">大杂烩</h3>
 
