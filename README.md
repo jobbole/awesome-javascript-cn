@@ -32,7 +32,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 本项目的参与者
 
 - 维护者：
-- 贡献者：刘健超、MissNull、一兮、Mr. Somebody、Jason Lee、[Tab_Gre](http://www.jobbole.com/members/ivanberry/)、[GavinZhang](http://www.jobbole.com/members/KeepMoving/)、[shadowkimi520](https://github.com/shadowkimi520/)、[zhoutk](http://www.jobbole.com/members/zhoutk/)
+- 贡献者：刘健超、MissNull、一兮、Mr. Somebody、Jason Lee、[Tab_Gre](http://www.jobbole.com/members/ivanberry/)、[GavinZhang](http://www.jobbole.com/members/KeepMoving/)、[shadowkimi520](https://github.com/shadowkimi520/)、[zhoutk](http://www.jobbole.com/members/zhoutk/)、[LeuisKen](http://www.jobbole.com/members/LeuisKen)
 
 注：名单不分排名，不定期补充更新
 
@@ -327,7 +327,7 @@ Web 数据可视化工具
 函数式编程库扩展了 JavaScript 的能力。
 
 * [underscore](http://hao.jobbole.com/underscore/)：JavaScript 的实用工具。[官网](https://github.com/jashkenas/underscore)
-* lodash：提供一致性、可定制、高性能和额外功能的实用库。[官网](https://github.com/lodash/lodash)
+* [lodash](http://hao.jobbole.com/lodash/)：提供一致性、可定制、高性能和额外功能的实用库。[官网](https://github.com/lodash/lodash)
 * Sugar：一个扩展了原生对象功能的 JavaScript 库。[官网](https://github.com/andrewplummer/Sugar)
 * lazy.js：类似 Underscore，但性能更优越[官网](https://github.com/dtao/lazy.js)
 * ramda：一个针对 JavaScript 程序员的实用函数库。[官网](https://github.com/CrossEye/ramda)
