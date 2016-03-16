@@ -110,9 +110,9 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 <h2 id="package-managers">包管理器</h2>
 
-管理着 javascript 库，并提供读取和打包它们的工具。
+管理着 JavaScript 库，并提供读取和打包它们的工具。
 
-* npm：npm 是 javascript 的包管理器。[官网](https://www.npmjs.com/)
+* npm：npm 是 JavaScript 的包管理器。[官网](https://www.npmjs.com/)
 * Bower：一个 web 应用的包管理器。[官网](https://github.com/bower/bower)
 * component：能构建更好 web 应用的客户端包管理器。[官网](https://github.com/componentjs/component)
 * spm：全新的静态包管理器。[官网](https://github.com/spmjs/spm)
@@ -400,7 +400,7 @@ Web 数据可视化工具
 * basil.js：智能的 JavaScript 数据持久层库。[官网](https://github.com/Wisembly/basil.js)
 * jquery-cookie：轻量简单的、用于读取、编辑和删除 cookie 的 jQuery 插件。[官网](https://github.com/carhartl/jquery-cookie)
 * Cookies：客户端 Cookie 操作库。[官网](https://github.com/ScottHamper/Cookies)
-* DB.js：基于 Promise 的、封装了 IndexDB 的库。[官网](https://github.com/aaronpowell/db.js/)
+* DB.js：基于 Promise 的、封装了 IndexedDB 的库。[官网](https://github.com/aaronpowell/db.js/)
 * lawnchair.js：简单的客户端 JSON 存储。[官网](https://github.com/brianleroux/lawnchair/)
 
 <h3 id="color">颜色</h3>
