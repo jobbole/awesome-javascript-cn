@@ -585,6 +585,7 @@ Web 数据可视化工具
 * jcSlider：用 CSS 动画实现的响应式幻灯片 jQuery 插件。[官网](https://github.com/JoanClaret/jcSlider)
 * basic-jquery-slider：易于使用、指定主题和定制化。[官网](https://github.com/jcobb/basic-jquery-slider)
 * unslider： 这是最简单的幻灯片 jQuery 插件。[官网](https://github.com/idiot/unslider)
+* viewerjs：原生js实现的图片查看器。[官网](https://fengyuanchen.github.io/viewerjs/)
 * jQuery.adaptive-slider：带有自适应颜色标题和导航的幻灯片 jQuery 插件。[官网](https://github.com/creative-punch/jQuery.adaptive-slider/)
 * slidr：可添加一些幻灯片效果。[官网](https://github.com/bchanx/slidr)
 * Flickity：可触摸的、响应式的和可轻弹的画廊。[官网](https://github.com/metafizzy/flickity)
