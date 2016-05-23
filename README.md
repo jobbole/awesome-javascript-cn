@@ -32,7 +32,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 本项目的参与者
 
 - 维护者：
-- 贡献者：[刘健超](https://github.com/JChehe)、MissNull、一兮、Mr. Somebody、Jason Lee、[Tab_Gre](http://www.jobbole.com/members/ivanberry/)、[GavinZhang](http://www.jobbole.com/members/KeepMoving/)、[shadowkimi520](https://github.com/shadowkimi520/)、[zhoutk](http://www.jobbole.com/members/zhoutk/)、[tzstone](http://www.jobbole.com/members/tzstone)、[Erichain](http://www.jobbole.com/members/Erichain)、[chen](http://www.jobbole.com/members/atmfans)、[ElizabethMa](https://github.com/ElizabethMa)、[LeuisKen](http://www.jobbole.com/members/LeuisKen)、[linacre](http://www.jobbole.com/members/linacre)、[王涛](http://www.jobbole.com/members/wt726553124/)
+- 贡献者：[刘健超](https://github.com/JChehe)、MissNull、一兮、Mr. Somebody、Jason Lee、[Tab_Gre](http://www.jobbole.com/members/ivanberry/)、[GavinZhang](http://www.jobbole.com/members/KeepMoving/)、[shadowkimi520](https://github.com/shadowkimi520/)、[zhoutk](http://www.jobbole.com/members/zhoutk/)、[tzstone](http://www.jobbole.com/members/tzstone/)、[Erichain](http://www.jobbole.com/members/Erichain/)、[chen](http://www.jobbole.com/members/atmfans/)、[ElizabethMa](https://github.com/ElizabethMa)、[LeuisKen](http://www.jobbole.com/members/LeuisKen/)、[linacre](http://www.jobbole.com/members/linacre/)、[王涛](http://www.jobbole.com/members/wt726553124/)
 
 注：名单不分排名，不定期补充更新
 
@@ -136,7 +136,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 JavaScript 的模块或加载系统。
 
-* RequireJS：JavaScript 文件和模块的加载器。[官网](https://github.com/jrburke/requirejs)
+* RequireJS：JavaScript 文件和模块的加载器。[官网](https://github.com/requirejs/requirejs)
 * browserify：在浏览器端以 node.js 的方式 require()。[官网](https://github.com/substack/node-browserify)
 * SeaJS：用于 Web 的模块加载器。[官网](https://github.com/seajs/seajs)
 * HeadJS：HEAD 的唯一脚本。[官网](https://github.com/headjs/headjs)
@@ -181,7 +181,7 @@ JavaScript 的模块或加载系统。
 
 * phantomjs：脚本化的 Headless WebKit。[官网](https://github.com/ariya/phantomjs)
 * slimerjs：一个内核为 Gecko 的类似 PhantomJS 工具。[官网](https://github.com/laurentj/slimerjs)
-* casperjs：基于 PhantomJS 和 Slimer JS 的导航脚本和测试工具。[官网](https://github.com/n1k0/casperjs) 
+* casperjs：基于 PhantomJS 和 Slimer JS 的导航脚本和测试工具。[官网](https://github.com/casperjs/casperjs) 
 * zombie：基于 node.js 、快速、全栈且无图形界面的浏览器的测试工具。[官网](https://github.com/assaf/zombie)
 * totoro：一个简单可靠且能跨浏览器运行的测试工具。[官网](https://github.com/totorojs/totoro)
 * karma：一个优秀的的 JavaScript 测试运行器。[官网](https://github.com/karma-runner/karma)
@@ -253,7 +253,7 @@ JavaScript 的模块或加载系统。
 * eco：嵌入式的 CoffeeScript 模板。[官网](https://github.com/sstephenson/eco/)
 * JavaScript-Templates：轻量（小于 1KB）、快速且无依赖的强大 JavaScript 模版引擎。[官网](https://github.com/blueimp/JavaScript-Templates)
 * t.js：小巧的 JavaScript 模板框架，压缩后约为 400 字节。[官网](https://github.com/jasonmoo/t.js)
-* Jade：健壮的、优雅且功能丰富的 nodejs 模板引擎。[官网](https://github.com/pugjs/jade)
+* Jade：健壮的、优雅且功能丰富的 nodejs 模板引擎。[官网](https://github.com/pugjs/pug)
 * EJS：高效的 JavaScript 模板。[官网](https://github.com/mde/ejs)
 * xtemplate：可扩展的模板引擎，适用于 node 和浏览器。[官网](https://github.com/xtemplate/xtemplate)
 * marko：快速轻量且基于 HTML 的模板引擎，支持异步、流、自定义标签和 CommonJS 模编译后输出。适用于 Node.js [官网](https://github.com/marko-js/marko)和浏览器。
@@ -262,11 +262,11 @@ JavaScript 的模块或加载系统。
 
 Web 数据可视化工具
 
-* d3：一个对 HTML 和 SVG 进行可视化的 JavaScript 库。[官网](https://github.com/mbostock/d3)
+* d3：一个对 HTML 和 SVG 进行可视化的 JavaScript 库。[官网](https://github.com/d3/d3)
 * metrics-graphics：更简洁和拥有更规范的数据图表布局优化算法的库。[官网](https://github.com/mozilla/metrics-graphics)
 * pykcharts.js：经过精心设计后，去除 d3.js 复杂性的 d3.js 图表库。[官网](https://github.com/pykih/PykCharts.js)
 * three.js：JavaScript 3D 库。[官网](https://github.com/mrdoob/three.js)
-* Chart.js：简单的、基于 canvas 标签的 HTML5 图表库。[官网](https://github.com/nnnick/Chart.js)
+* Chart.js：简单的、基于 canvas 标签的 HTML5 图表库。[官网](https://github.com/chartjs/Chart.js)
 * paper.js：是矢量图形脚本中的瑞士军刀 —— 使用 HTML5 Canvas 将 Scriptographer  移植到 JavaScript [官网](https://github.com/paperjs/paper.js)和浏览器。
 * fabric.js：JavaScript Canvas 库，SVG 与 Canvas 可以相互解析。[官网](https://github.com/kangax/fabric.js)
 * peity：进度条、线状和饼状图。[官网](https://github.com/benpickles/peity)
@@ -296,7 +296,7 @@ Web 数据可视化工具
 * dimple.js：基于 d3 的简易商业分析图表库。[官网](http://dimplejs.org/)
 * chartist-js：简单的响应式图表。[官网](https://github.com/gionkunz/chartist-js)
 * epoch：一个通用的实时图表库。[官网](https://github.com/epochjs/epoch)
-* c3：基于 D3 的可复用图表库。[官网](https://github.com/masayuki0812/c3)
+* c3：基于 D3 的可复用图表库。[官网](https://github.com/c3js/c3)
 * BabylonJS：一个运用 HTML5 和 WebGL 构建 3D 游戏的框架。[官网](https://github.com/BabylonJS/Babylon.js)
 
 也有一些很棒的收费库，如 [amchart](https://www.amcharts.com/)、[plotly](https://plot.ly/) 和 [highchart](http://www.highcharts.com/)。
@@ -385,7 +385,7 @@ Web 数据可视化工具
 * multiline：多行字符串。[官网](https://github.com/sindresorhus/multiline)
 * query-string：解析和字符串化 URL 查询字符串。[官网](https://github.com/sindresorhus/query-string)
 * URI.js：URL 操作库。[官网](https://github.com/medialize/URI.js/) 
-* jsurl：轻量的 URL 操作库。[官网](https://github.com/Mikhus/jsurl)
+* jsurl：轻量的 URL 操作库。[官网](https://github.com/Mikhus/domurl)
 * sprintf.js：实现字符串格式化。[官网](https://github.com/alexei/sprintf.js)
 * url-pattern：让 url 和其它字符串进行比正则表达式匹配更简单。字符串和数据可相互转化。[官网](https://github.com/snd/url-pattern)
 
@@ -417,7 +417,7 @@ Web 数据可视化工具
 
 * randomColor：JavaScript 颜色生成器。[官网](https://github.com/davidmerfield/randomColor)
 * chroma.js：拥有各种各样颜色操作的 JavaScript 库。[官网](https://github.com/gka/chroma.js)
-* color：JavaScript 颜色转换和操作库。[官网](https://github.com/MoOx/color)
+* color：JavaScript 颜色转换和操作库。[官网](https://github.com/Qix-/color)
 * colors：更智能的默认 web 颜色。[官网](https://github.com/mrmrs/colors)
 * PleaseJS：随机创建出赏心悦目的颜色和配色方案。[官网](https://github.com/Fooidge/PleaseJS)
 * TinyColor：快速、轻巧的颜色操作和转换库。[官网](https://github.com/bgrins/TinyColor)
@@ -664,7 +664,7 @@ Web 数据可视化工具
 
 <h3 id="scroll">滚动</h3>
 
-* scrollMonitor：滚动发生时，可以监听元素的、简单、快速的 API。[官网](https://github.com/sakabako/scrollMonitor)
+* scrollMonitor：滚动发生时，可以监听元素的、简单、快速的 API。[官网](https://github.com/stutrek/scrollMonitor)
 * headroom：除非你需要显示页面头部（header），否则将隐藏它，以腾出页面头部空间。[官网](https://github.com/WickyNilliams/headroom.js)
 * onepage-scroll：创建一个类似 Apple 的单页面滚动网站（iPhone 5S  网站）。[官网](https://github.com/peachananr/onepage-scroll)
 * iscroll：高性能、轻量、无依赖、兼容多平台的 JavaScript 滚动组件。[官网](https://github.com/cubiq/iscroll)
@@ -686,7 +686,7 @@ Web 数据可视化工具
 <h3 id="table-grid">表格/栅格</h3>
 
 * jTable：基于 CRUD 表创建 AJAX 的 jQuery 插件。[官网](https://github.com/hikalkan/jtable)
-* DataTables：这是一个非常灵活的工具，在渐进增强的基础上，将高级的交互效果加到 HTML 表格。（jQuery 插件）[官网](http://www.datatables.net/) 
+* DataTables：这是一个非常灵活的工具，在渐进增强的基础上，将高级的交互效果加到 HTML 表格。（jQuery 插件）[官网](https://www.datatables.net/) 
 * floatThead：（jQuery 插件）锁定表格头部，只允许表格内容滚动。适用于任何表格，而且不需要额外的 html 或 css。[官网](https://github.com/mkoryak/floatThead)
 * Masonry：瀑布流式的网格布局库。[官网](http://masonry.desandro.com/)
 * Packery：使用装箱算法（bin-packing）的网格布局库。支持拖拽布局。[官网](http://packery.metafizzy.co/)
