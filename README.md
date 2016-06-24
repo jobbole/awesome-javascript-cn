@@ -386,6 +386,7 @@ Web 数据可视化工具
 * timezone-js：让 JavaScript Date 对象拥有时区功能。使用 Olson zoneinfo 文件记录着时区数据。[官网](https://github.com/mde/timezone-js)
 * date：拥有人性化的 Date() 方法。[官网](https://github.com/MatthewMueller/date)
 * ms.js：小巧的毫秒转换工具。[官网](https://github.com/rauchg/ms.js)
+* timeago.js：一个非常轻量级，测试良好的用于将时间转化成`xxx时间前`格式，例如：8分钟前。[官网](https://github.com/hustcc/timeago.js)
 
 <h3 id="string">字符串</h3>
 
