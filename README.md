@@ -367,7 +367,7 @@ Web 数据可视化工具
 * Highland：对 JavaScript 实用工具的重新思考，Highland 能轻易地管理同步和异步信息，而且仅使用标准 JavaScript 和类 Node 流。[官网](http://highlandjs.org/)
 * Most.js：高性能 FRP 库。[官网](https://github.com/cujojs/most)
 
-<h3 id="数据结构">数据结构</h3>
+<h3 id="data-structure">数据结构</h3>
 
 数据结构库用于构建一个更复杂的应用。
 
