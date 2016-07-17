@@ -773,6 +773,7 @@ Web 数据可视化工具
 * [json3](http://hao.jobbole.com/json3/)：一个现代 JSON 实现库，几乎兼容所有 JavaScript 平台。[官网](https://github.com/bestiejs/json3)
 * Logical Or Not：一个关于 JavaScript 特性的游戏。[官网](http://gabinaureche.com/logicalornot/)
 * BitSet.js：实现位向量的 JavaScript 库。[官网](https://github.com/infusion/BitSet.js)
+* onfire.js：一个简洁的事件订阅发布的 Javascript 库。[官网](https://github.com/hustcc/onfire.js)
 
 <h2 id="worth-reading">精品阅读</h2>
 
