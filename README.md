@@ -387,6 +387,7 @@ Web 数据可视化工具
 * timezone-js：让 JavaScript Date 对象拥有时区功能。使用 Olson zoneinfo 文件记录着时区数据。[官网](https://github.com/mde/timezone-js)
 * date：拥有人性化的 Date() 方法。[官网](https://github.com/MatthewMueller/date)
 * ms.js：小巧的毫秒转换工具。[官网](https://github.com/rauchg/ms.js)
+* timeago.js：一个非常轻量级，测试良好的用于将时间转化成`xxx时间前`格式，例如：8分钟前。[官网](https://github.com/hustcc/timeago.js)
 
 <h3 id="string">字符串</h3>
 
@@ -774,6 +775,7 @@ Web 数据可视化工具
 * [json3](http://hao.jobbole.com/json3/)：一个现代 JSON 实现库，几乎兼容所有 JavaScript 平台。[官网](https://github.com/bestiejs/json3)
 * Logical Or Not：一个关于 JavaScript 特性的游戏。[官网](http://gabinaureche.com/logicalornot/)
 * BitSet.js：实现位向量的 JavaScript 库。[官网](https://github.com/infusion/BitSet.js)
+* onfire.js：一个简洁的事件订阅发布的 Javascript 库。[官网](https://github.com/hustcc/onfire.js)
 
 <h2 id="worth-reading">精品阅读</h2>
 
