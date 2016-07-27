@@ -101,6 +101,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
     * [框架](#frameworks-1)
   * 移动
     * [手势](#gesture)
+    * [触摸](#touch)
   * [地图](#maps)
   * [视频/音频](#video-audio)
   * [动画](#animations)
@@ -298,6 +299,7 @@ Web 数据可视化工具
 * epoch：一个通用的实时图表库。[官网](https://github.com/epochjs/epoch)
 * c3：基于 D3 的可复用图表库。[官网](https://github.com/masayuki0812/c3)
 * BabylonJS：一个运用 HTML5 和 WebGL 构建 3D 游戏的框架。[官网](https://github.com/BabylonJS/Babylon.js)
+* jquery.raty.js：一个星级评分插件。[官网](https://github.com/wbotelhos/raty)
 
 也有一些很棒的收费库，如 [amchart](https://www.amcharts.com/)、[plotly](https://plot.ly/) 和 [highchart](http://www.highcharts.com/)。
 
@@ -702,6 +704,12 @@ Web 数据可视化工具
 * hammer.js：拥有多种触摸手势的 JavaScript 库。[官网](https://github.com/hammerjs/hammer.js)
 * touchemulator：在桌面电脑模仿触摸输入。[官网](https://github.com/hammerjs/touchemulator)
 * Dragula：超级易于使用的拖拽库。[官网](https://github.com/bevacqua/dragula/)
+
+<h3 id="touch">触摸</h3>
+
+* fastclick.js：去除触屏用户300ms点击延误。[官网](https://github.com/ftlabs/fastclick)
+* dropload.js：移动端下拉刷新，上拉加载更多。[官网](https://github.com/ximan/dropload)
+* touchslide.js：触屏滑动特效。[官网](http://www.superslide2.com/touchSlide/)
 
 <h3 id="maps">地图</h3>
 
