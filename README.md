@@ -803,8 +803,8 @@ Web 数据可视化工具
 <h3 id="influential-books">有影响力的书</h3>
 *具有广泛影响且值得阅读的前端经典书籍。*
 
-*《[Limu：JavaScript 的那些书](http://web.jobbole.com/8087/)》
-*《你不知道的Javascript》：英文版 "You Don't Know JS"
+* 《[Limu：JavaScript 的那些书](http://web.jobbole.com/8087/)》
+* 《你不知道的Javascript》：英文版 "You Don't Know JS"
 
 <h3 id="websites">知名网站</h3>
 *值得关注的前端技术站点。*
