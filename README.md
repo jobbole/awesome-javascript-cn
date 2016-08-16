@@ -71,6 +71,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
   * [MVC 框架和库](#mvc-frameworks-and-libraries)
   * [基于 Node 的 CMS 框架](#node-powered-cms-frameworks)
   * [模板引擎](#templating-engines)
+  * [Flux](#data-flow)
   * [数据可视化](#data-visualization)
     * [时间轴](#timeline)
   * [编辑器](#editors)
@@ -272,6 +273,13 @@ JavaScript 的模块或加载系统。
 * EJS：高效的 JavaScript 模板。[官网](https://github.com/mde/ejs)
 * xtemplate：可扩展的模板引擎，适用于 node 和浏览器。[官网](https://github.com/xtemplate/xtemplate)
 * marko：快速轻量且基于 HTML 的模板引擎，支持异步、流、自定义标签和 CommonJS 模编译后输出。适用于 Node.js [官网](https://github.com/marko-js/marko)和浏览器。
+
+<h2 id="data-flow">Flux</h2>
+
+Flux是Facebook用来构建客户端Web应用的应用架构
+
+* Reflux是根据React的flux创建的单向数据流类库。[官网](https://github.com/reflux/refluxjs)
+* Redux是可预测javascript应用程序状态的容器。[官网](http://redux.js.org/)
 
 <h2 id="data visualization">数据可视化</h2>
 
