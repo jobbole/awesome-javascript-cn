@@ -256,7 +256,7 @@ JavaScript 的模块或加载系统。
 * xtemplate：可扩展的模板引擎，适用于 node 和浏览器。[官网](https://github.com/xtemplate/xtemplate)
 * marko：快速轻量且基于 HTML 的模板引擎，支持异步、流、自定义标签和 CommonJS 模编译后输出。适用于 Node.js [官网](https://github.com/marko-js/marko)和浏览器。
 
-<h2 id="data visualization">Flux</h2>
+<h2 id="data-flow">Flux</h2>
 
 Flux是Facebook用来构建客户端Web应用的应用架构
 
