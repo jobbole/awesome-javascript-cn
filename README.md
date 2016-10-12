@@ -45,7 +45,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 本项目的参与者
 
 - 维护者：
-- 贡献者：[刘健超](https://github.com/JChehe)、MissNull、一兮、Mr. Somebody、Jason Lee、[Tab_Gre](http://www.jobbole.com/members/ivanberry/)、[GavinZhang](http://www.jobbole.com/members/KeepMoving/)、[shadowkimi520](https://github.com/shadowkimi520/)、[zhoutk](http://www.jobbole.com/members/zhoutk/)、[tzstone](http://www.jobbole.com/members/tzstone)、[Erichain](http://www.jobbole.com/members/Erichain)、[chen](http://www.jobbole.com/members/atmfans)、[ElizabethMa](https://github.com/ElizabethMa)、[LeuisKen](http://www.jobbole.com/members/LeuisKen)、[linacre](http://www.jobbole.com/members/linacre)、[王涛](http://www.jobbole.com/members/wt726553124/)、[neal1991](https://github.com/neal1991)、[luoyjx](https://github.com/luoyjx)、[appleshowc](https://github.com/appleshowc)、[TAMMENY](https://github.com/TAMMENY)、[cike8899](https://github.com/cike8899)、[cnzin](https://github.com/cnzin)、[cike8899](https://github.com/cike8899)、[hustcc](https://github.com/hustcc)
+- 贡献者：[刘健超](https://github.com/JChehe)、MissNull、一兮、Mr. Somebody、Jason Lee、[Tab_Gre](http://www.jobbole.com/members/ivanberry/)、[GavinZhang](http://www.jobbole.com/members/KeepMoving/)、[shadowkimi520](https://github.com/shadowkimi520/)、[zhoutk](http://www.jobbole.com/members/zhoutk/)、[tzstone](http://www.jobbole.com/members/tzstone)、[Erichain](http://www.jobbole.com/members/Erichain)、[chen](http://www.jobbole.com/members/atmfans)、[ElizabethMa](https://github.com/ElizabethMa)、[LeuisKen](http://www.jobbole.com/members/LeuisKen)、[linacre](http://www.jobbole.com/members/linacre)、[王涛](http://www.jobbole.com/members/wt726553124/)、[neal1991](https://github.com/neal1991)、[luoyjx](https://github.com/luoyjx)、[appleshowc](https://github.com/appleshowc)、[TAMMENY](https://github.com/TAMMENY)、[cike8899](https://github.com/cike8899)、[cnzin](https://github.com/cnzin)、[cike8899](https://github.com/cike8899)、[hustcc](https://github.com/hustcc)、[冰斌](http://www.jobbole.com/members/libing1209/)
 
 注：名单不分排名，不定期补充更新
 
@@ -791,6 +791,7 @@ Web 数据可视化工具
 * [json3](http://hao.jobbole.com/json3/)：一个现代 JSON 实现库，几乎兼容所有 JavaScript 平台。[官网](https://github.com/bestiejs/json3)
 * Logical Or Not：一个关于 JavaScript 特性的游戏。[官网](http://gabinaureche.com/logicalornot/)
 * BitSet.js：实现位向量的 JavaScript 库。[官网](https://github.com/infusion/BitSet.js)
+* [Edge.js](http://hao.jobbole.com/edge-js/)：运行在一个进程中运行.NET和Node.js代码。[官网](http://tjanczuk.github.io/edge/)、[GitHub](https://github.com/tjanczuk/edge)
 
 <h2 id="worth-reading">精品阅读</h2>
 
