@@ -45,7 +45,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 本项目的参与者
 
 - 维护者：
-- 贡献者：[刘健超](https://github.com/JChehe)、MissNull、一兮、Mr. Somebody、Jason Lee、[Tab_Gre](http://www.jobbole.com/members/ivanberry/)、[GavinZhang](http://www.jobbole.com/members/KeepMoving/)、[shadowkimi520](https://github.com/shadowkimi520/)、[zhoutk](http://www.jobbole.com/members/zhoutk/)、[tzstone](http://www.jobbole.com/members/tzstone)、[Erichain](http://www.jobbole.com/members/Erichain)、[chen](http://www.jobbole.com/members/atmfans)、[ElizabethMa](https://github.com/ElizabethMa)、[LeuisKen](http://www.jobbole.com/members/LeuisKen)、[linacre](http://www.jobbole.com/members/linacre)、[王涛](http://www.jobbole.com/members/wt726553124/)、[neal1991](https://github.com/neal1991)、[luoyjx](https://github.com/luoyjx)、[appleshowc](https://github.com/appleshowc)、[TAMMENY](https://github.com/TAMMENY)、[cike8899](https://github.com/cike8899)、[cnzin](https://github.com/cnzin)、[cike8899](https://github.com/cike8899)、[hustcc](https://github.com/hustcc)、[冰斌](http://www.jobbole.com/members/libing1209/)
+- 贡献者：[刘健超](https://github.com/JChehe)、MissNull、一兮、Mr. Somebody、Jason Lee、[Tab_Gre](http://www.jobbole.com/members/ivanberry/)、[GavinZhang](http://www.jobbole.com/members/KeepMoving/)、[shadowkimi520](https://github.com/shadowkimi520/)、[zhoutk](http://www.jobbole.com/members/zhoutk/)、[tzstone](http://www.jobbole.com/members/tzstone)、[Erichain](http://www.jobbole.com/members/Erichain)、[chen](http://www.jobbole.com/members/atmfans)、[ElizabethMa](https://github.com/ElizabethMa)、[LeuisKen](http://www.jobbole.com/members/LeuisKen)、[linacre](http://www.jobbole.com/members/linacre)、[王涛](http://www.jobbole.com/members/wt726553124/)、[neal1991](https://github.com/neal1991)、[luoyjx](https://github.com/luoyjx)、[appleshowc](https://github.com/appleshowc)、[TAMMENY](https://github.com/TAMMENY)、[cike8899](https://github.com/cike8899)、[cnzin](https://github.com/cnzin)、[cike8899](https://github.com/cike8899)、[hustcc](https://github.com/hustcc)、[冰斌](http://www.jobbole.com/members/libing1209/)、[邢敏](https://github.com/dfghj44444)
 
 注：名单不分排名，不定期补充更新
 
@@ -757,7 +757,7 @@ Web 数据可视化工具
 
 <h3 id="animations">动画</h3>
 
-* velocity：加速 JavaScript 动画。[官网](https://github.com/julianshapiro/velocity)
+* [velocity](http://hao.jobbole.com/velocity-js/)：加速 JavaScript 动画。[官网](https://github.com/julianshapiro/velocity)
 * [jquery.transit](http://hao.jobbole.com/jquery-transit/)：拥有超级流畅的 CSS3 变换和过渡的 jQuery 插件。[官网](https://github.com/rstacruz/jquery.transit)
 * impess.js：在 HTML 文档里，运用 CSS3 变换和过渡制作类似 Prezi 的展现效果。[官网](https://github.com/impress/impress.js)
 * [bounce.js](http://hao.jobbole.com/bounce-js/)：可以立刻创建有趣的 CSS3 动画。[官网](https://github.com/tictail/bounce.js)
