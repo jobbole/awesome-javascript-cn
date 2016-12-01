@@ -243,6 +243,7 @@ JavaScript 的模块或加载系统。
 * mithril.js：Mithril 是一个客户端 MVC 框架（轻量、强大和快速）[官网](https://github.com/lhorie/mithril.js)
 * jsblocks：jsblocks 是一个更好的 MV-ish 框架。[官网](https://github.com/astoilkov/jsblocks)
 * LiquidLava：易懂的、用于构建用户界面的 MVC 框架。[官网](http://www.lava-framework.com/)
+* [Electron](http://hao.jobbole.com/electron/)：用Html、CSS和JavaScript构建跨平台的客户端应用程序。[官网](http://electron.atom.io/)、[GitHub](https://github.com/electron/electron)
 
 <h2 id="node-powered-cms-frameworks">基于 Node 的 CMS 框架</h2>
 
