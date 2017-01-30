@@ -688,6 +688,7 @@ Web 数据可视化工具
 * bootstrap-modal：对 Bootstrap 默认的模态框类进行扩展。其支持响应式、可堆叠和 ajax 等。[官网](https://github.com/jschr/bootstrap-modal)
 * css-modal：纯 CSS 打造的模态框。[官网](https://github.com/drublic/css-modal)
 * jquery-popup-overlay：是一个响应式的和可访问性强的模态框和工具提示框（tooltips）jQuery 插件。[官网](https://github.com/vast-engineering/jquery-popup-overlay)
+* layer：国内最多人使用的web弹层组件。[官网](https://github.com/sentsin/layer/)
 
 <h3 id="scroll">滚动</h3>
 
