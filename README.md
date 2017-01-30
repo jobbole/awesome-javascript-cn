@@ -772,6 +772,7 @@ Web 数据可视化工具
 * [lena.js](http://hao.jobbole.com/lena-js/)：拥有滤镜和实用功能的图像处理库。[官网](https://github.com/davidsonfellipe/lena.js)
 * [pica](http://hao.jobbole.com/pica/)：高质量地调整图片大小（拥有快速的、纯 JS 实现的 Lanczos 滤镜算法）。[官网](https://github.com/nodeca/pica)
 * cropper：一个简单的图像裁剪 jQuery 插件。[官网](https://github.com/fengyuanchen/cropper)
+* AlloyImage：腾讯前端开源的基于HTML5的专业级图像处理开源引擎。[官网](https://github.com/AlloyTeam/AlloyImage)
 
 <h3 id="es6">ECMAScript 6</h3>
 
