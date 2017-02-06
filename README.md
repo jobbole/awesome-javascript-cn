@@ -688,6 +688,7 @@ Web 数据可视化工具
 * bootstrap-modal：对 Bootstrap 默认的模态框类进行扩展。其支持响应式、可堆叠和 ajax 等。[官网](https://github.com/jschr/bootstrap-modal)
 * css-modal：纯 CSS 打造的模态框。[官网](https://github.com/drublic/css-modal)
 * jquery-popup-overlay：是一个响应式的和可访问性强的模态框和工具提示框（tooltips）jQuery 插件。[官网](https://github.com/vast-engineering/jquery-popup-overlay)
+* layer：国内最多人使用的web弹层组件。[官网](https://github.com/sentsin/layer/)
 
 <h3 id="scroll">滚动</h3>
 
@@ -771,6 +772,7 @@ Web 数据可视化工具
 * [lena.js](http://hao.jobbole.com/lena-js/)：拥有滤镜和实用功能的图像处理库。[官网](https://github.com/davidsonfellipe/lena.js)
 * [pica](http://hao.jobbole.com/pica/)：高质量地调整图片大小（拥有快速的、纯 JS 实现的 Lanczos 滤镜算法）。[官网](https://github.com/nodeca/pica)
 * cropper：一个简单的图像裁剪 jQuery 插件。[官网](https://github.com/fengyuanchen/cropper)
+* AlloyImage：腾讯前端开源的基于HTML5的专业级图像处理开源引擎。[官网](https://github.com/AlloyTeam/AlloyImage)
 
 <h3 id="es6">ECMAScript 6</h3>
 
