@@ -703,6 +703,7 @@ Web 数据可视化工具
 * jparallax：创建可交互视差效果的 jQuery 插件。[官网](https://github.com/stephband/jparallax)
 * fullPage：简单和易于使用的、用于创建全屏滚动网站的插件（也被称为单页面网站）。[官网](https://github.com/alvarotrigo/fullPage.js)
 * ScrollMenu：让老旧无聊的滚动条焕然一新。[官网](https://github.com/s-yadav/ScrollMenu)
+* scrollload：滚动加载更多数据，轻量，无依赖。[官网](https://github.com/fa-ge/scrollload)
 
 <h3 id="menu">菜单</h3>
 
