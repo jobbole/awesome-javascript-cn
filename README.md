@@ -281,6 +281,8 @@ Flux是Facebook用来构建客户端Web应用的应用架构
 
 * Reflux是根据React的flux创建的单向数据流类库。[官网](https://github.com/reflux/refluxjs)
 * Redux是可预测javascript应用程序状态的容器。[官网](http://redux.js.org/)
+* Mobx是通过透明的函数响应式编程实现简单，可扩展的状态管理库。[官网](https://mobx.js.org/)
+* Dva是基于Redux, Redux-saga 和 react-router@2.x的轻量级的框架。[官网](https://github.com/dvajs/dva)
 
 <h2 id="data visualization">数据可视化</h2>
 
