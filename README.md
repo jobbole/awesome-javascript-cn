@@ -813,6 +813,7 @@ Web 数据可视化工具
 * 《[45个实用的JavaScript技巧、窍门和最佳实践](http://web.jobbole.com/54495/)》
 * 《[为现代JavaScript开发做好准备](http://web.jobbole.com/66135/)》
 * 《[给JavaScript初学者的24条最佳实践](http://web.jobbole.com/53199/)》
+* 《[不可替代的团队领袖培养计划](https://leader.js.cool/)》
 
 <h1 id="resources">资源</h1>
 
