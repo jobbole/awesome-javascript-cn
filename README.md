@@ -528,6 +528,10 @@ Web 数据可视化工具
 
 * bowser：一个浏览器检测器。[官网](https://github.com/ded/bowser)
 
+<h3 id="browser-detection">Node.js 性能分析工具</h3>
+
+* easy-monitor：一个轻量级实时 Node.js 项目的内核性能分析工具。[官网](http://www.easy-monitor.cn/document)
+
 ## UI
 
 <h3 id="code-highlighting">代码高亮</h3>
