@@ -97,7 +97,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
     * [API](#api)
     * [视觉检测](#vision-detection)
     * [浏览器检测](#browser-detection)
-    * [Node.js 性能分析](#node-performance)
+    * [性能分析](#performance-analysis)
   * UI
     * [代码高亮](#code-highlighting)
     * [加载状态](#loading-status)
@@ -529,7 +529,7 @@ Web 数据可视化工具
 
 * bowser：一个浏览器检测器。[官网](https://github.com/ded/bowser)
 
-<h3 id="node-performance">Node.js 性能分析</h3>
+<h3 id="performance-analysis">性能分析</h3>
 
 * easy-monitor：一个轻量级实时 Node.js 项目的内核性能分析工具。[官网](http://www.easy-monitor.cn/document)
 
