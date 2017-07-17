@@ -97,7 +97,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
     * [API](#api)
     * [视觉检测](#vision-detection)
     * [浏览器检测](#browser-detection)
-    * [性能分析](#performance-analysis)
+    * [性能分析](#performance-analysis)
   * UI
     * [代码高亮](#code-highlighting)
     * [加载状态](#loading-status)
