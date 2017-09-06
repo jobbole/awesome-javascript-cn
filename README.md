@@ -29,10 +29,23 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * * *
 
+### 如何为列表贡献新资源？
+
+欢迎大家为列表贡献高质量的新资源，提交PR时请参照以下要求：
+
+* 请确保推荐的资源自己使用过
+* 提交PR时请注明推荐理由
+
+资源列表管理收到PR请求后，会定期（每周）在微博转发本周提交的PR列表，并在微博上面听取使用过这些资源的意见。确认通过后，会加入资源大全。
+
+感谢您的贡献！
+
+* * *
+
 ### 本项目的参与者
 
 - 维护者：
-- 贡献者：[刘健超](https://github.com/JChehe)、MissNull、一兮、Mr. Somebody、Jason Lee、[Tab_Gre](http://www.jobbole.com/members/ivanberry/)、[GavinZhang](http://www.jobbole.com/members/KeepMoving/)、[shadowkimi520](https://github.com/shadowkimi520/)、[zhoutk](http://www.jobbole.com/members/zhoutk/)、[tzstone](http://www.jobbole.com/members/tzstone)、[Erichain](http://www.jobbole.com/members/Erichain)、[chen](http://www.jobbole.com/members/atmfans)、[ElizabethMa](https://github.com/ElizabethMa)、[LeuisKen](http://www.jobbole.com/members/LeuisKen)、[linacre](http://www.jobbole.com/members/linacre)、[王涛](http://www.jobbole.com/members/wt726553124/)
+- 贡献者：[刘健超](https://github.com/JChehe)、MissNull、一兮、Mr. Somebody、Jason Lee、[Tab_Gre](http://www.jobbole.com/members/ivanberry/)、[GavinZhang](http://www.jobbole.com/members/KeepMoving/)、[shadowkimi520](https://github.com/shadowkimi520/)、[zhoutk](http://www.jobbole.com/members/zhoutk/)、[tzstone](http://www.jobbole.com/members/tzstone)、[Erichain](http://www.jobbole.com/members/Erichain)、[chen](http://www.jobbole.com/members/atmfans)、[ElizabethMa](https://github.com/ElizabethMa)、[LeuisKen](http://www.jobbole.com/members/LeuisKen)、[linacre](http://www.jobbole.com/members/linacre)、[王涛](http://www.jobbole.com/members/wt726553124/)、[neal1991](https://github.com/neal1991)、[luoyjx](https://github.com/luoyjx)、[appleshowc](https://github.com/appleshowc)、[TAMMENY](https://github.com/TAMMENY)、[cike8899](https://github.com/cike8899)、[cnzin](https://github.com/cnzin)、[cike8899](https://github.com/cike8899)、[hustcc](https://github.com/hustcc)、[冰斌](http://www.jobbole.com/members/libing1209/)、[邢敏](https://github.com/dfghj44444)
 
 注：名单不分排名，不定期补充更新
 
@@ -58,6 +71,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
   * [MVC 框架和库](#mvc-frameworks-and-libraries)
   * [基于 Node 的 CMS 框架](#node-powered-cms-frameworks)
   * [模板引擎](#templating-engines)
+  * [Flux](#data-flow)
   * [数据可视化](#data-visualization)
     * [时间轴](#timeline)
   * [编辑器](#editors)
@@ -83,6 +97,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
     * [API](#api)
     * [视觉检测](#vision-detection)
     * [浏览器检测](#browser-detection)
+    * [性能分析](#performance-analysis)
   * UI
     * [代码高亮](#code-highlighting)
     * [加载状态](#loading-status)
@@ -101,6 +116,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
     * [框架](#frameworks-1)
   * 移动
     * [手势](#gesture)
+    * [触摸](#touch)
   * [地图](#maps)
   * [视频/音频](#video-audio)
   * [动画](#animations)
@@ -120,9 +136,9 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 <h2 id="package-managers">包管理器</h2>
 
-管理着 javascript 库，并提供读取和打包它们的工具。
+管理着 JavaScript 库，并提供读取和打包它们的工具。
 
-* npm：npm 是 javascript 的包管理器。[官网](https://www.npmjs.com/)
+* npm：npm 是 JavaScript 的包管理器。[官网](https://www.npmjs.com/)
 * Bower：一个 web 应用的包管理器。[官网](https://github.com/bower/bower)
 * component：能构建更好 web 应用的客户端包管理器。[官网](https://github.com/componentjs/component)
 * spm：全新的静态包管理器。[官网](https://github.com/spmjs/spm)
@@ -152,6 +168,7 @@ JavaScript 的模块或加载系统。
 
 * browserify ：Browserify 让你能在浏览器端使用 require('modules') ，打包所有依赖。[官网](https://github.com/substack/node-browserify)
 * webpack：为浏览器打包 CommonJs/AMD 模块。[官网](https://github.com/webpack/webpack)
+* gulp：用自动化构建工具增强你的工作流程！[官网](http://gulpjs.com/)
 
 <h2 id="testing-frameworks">测试框架</h2>
 
@@ -227,6 +244,7 @@ JavaScript 的模块或加载系统。
 * mithril.js：Mithril 是一个客户端 MVC 框架（轻量、强大和快速）[官网](https://github.com/lhorie/mithril.js)
 * jsblocks：jsblocks 是一个更好的 MV-ish 框架。[官网](https://github.com/astoilkov/jsblocks)
 * LiquidLava：易懂的、用于构建用户界面的 MVC 框架。[官网](http://www.lava-framework.com/)
+* [Electron](http://hao.jobbole.com/electron/)：用Html、CSS和JavaScript构建跨平台的客户端应用程序。[官网](http://electron.atom.io/)、[GitHub](https://github.com/electron/electron)
 
 <h2 id="node-powered-cms-frameworks">基于 Node 的 CMS 框架</h2>
 
@@ -258,6 +276,15 @@ JavaScript 的模块或加载系统。
 * xtemplate：可扩展的模板引擎，适用于 node 和浏览器。[官网](https://github.com/xtemplate/xtemplate)
 * marko：快速轻量且基于 HTML 的模板引擎，支持异步、流、自定义标签和 CommonJS 模编译后输出。适用于 Node.js [官网](https://github.com/marko-js/marko)和浏览器。
 
+<h2 id="data-flow">Flux</h2>
+
+Flux是Facebook用来构建客户端Web应用的应用架构
+
+* Reflux是根据React的flux创建的单向数据流类库。[官网](https://github.com/reflux/refluxjs)
+* Redux是可预测javascript应用程序状态的容器。[官网](http://redux.js.org/)
+* Mobx是通过透明的函数响应式编程实现简单，可扩展的状态管理库。[官网](https://mobx.js.org/)
+* Dva是基于Redux, Redux-saga 和 react-router@2.x的轻量级的框架。[官网](https://github.com/dvajs/dva)
+
 <h2 id="data visualization">数据可视化</h2>
 
 Web 数据可视化工具
@@ -265,7 +292,7 @@ Web 数据可视化工具
 * d3：一个对 HTML 和 SVG 进行可视化的 JavaScript 库。[官网](https://github.com/mbostock/d3)
 * metrics-graphics：更简洁和拥有更规范的数据图表布局优化算法的库。[官网](https://github.com/mozilla/metrics-graphics)
 * pykcharts.js：经过精心设计后，去除 d3.js 复杂性的 d3.js 图表库。[官网](https://github.com/pykih/PykCharts.js)
-* three.js：JavaScript 3D 库。[官网](https://github.com/mrdoob/three.js)
+* [three.js](http://hao.jobbole.com/three-js/)：JavaScript 3D 库。[官网](https://github.com/mrdoob/three.js)
 * Chart.js：简单的、基于 canvas 标签的 HTML5 图表库。[官网](https://github.com/nnnick/Chart.js)
 * paper.js：是矢量图形脚本中的瑞士军刀 —— 使用 HTML5 Canvas 将 Scriptographer  移植到 JavaScript [官网](https://github.com/paperjs/paper.js)和浏览器。
 * fabric.js：JavaScript Canvas 库，SVG 与 Canvas 可以相互解析。[官网](https://github.com/kangax/fabric.js)
@@ -298,6 +325,7 @@ Web 数据可视化工具
 * epoch：一个通用的实时图表库。[官网](https://github.com/epochjs/epoch)
 * c3：基于 D3 的可复用图表库。[官网](https://github.com/masayuki0812/c3)
 * BabylonJS：一个运用 HTML5 和 WebGL 构建 3D 游戏的框架。[官网](https://github.com/BabylonJS/Babylon.js)
+* jquery.raty.js：一个星级评分插件。[官网](https://github.com/wbotelhos/raty)
 
 也有一些很棒的收费库，如 [amchart](https://www.amcharts.com/)、[plotly](https://plot.ly/) 和 [highchart](http://www.highcharts.com/)。
 
@@ -354,7 +382,7 @@ Web 数据可视化工具
 * Highland：对 JavaScript 实用工具的重新思考，Highland 能轻易地管理同步和异步信息，而且仅使用标准 JavaScript 和类 Node 流。[官网](http://highlandjs.org/)
 * Most.js：高性能 FRP 库。[官网](https://github.com/cujojs/most)
 
-<h3 id="数据结构">数据结构</h3>
+<h3 id="data-structure">数据结构</h3>
 
 数据结构库用于构建一个更复杂的应用。
 
@@ -373,6 +401,7 @@ Web 数据可视化工具
 * timezone-js：让 JavaScript Date 对象拥有时区功能。使用 Olson zoneinfo 文件记录着时区数据。[官网](https://github.com/mde/timezone-js)
 * date：拥有人性化的 Date() 方法。[官网](https://github.com/MatthewMueller/date)
 * ms.js：小巧的毫秒转换工具。[官网](https://github.com/rauchg/ms.js)
+* timeago.js：一个非常轻量级(~1.7 Kb)的用于将时间转化成`xxx时间前`格式，例如：8分钟前。[官网](http://timeago.org)
 
 <h3 id="string">字符串</h3>
 
@@ -410,7 +439,7 @@ Web 数据可视化工具
 * basil.js：智能的 JavaScript 数据持久层库。[官网](https://github.com/Wisembly/basil.js)
 * jquery-cookie：轻量简单的、用于读取、编辑和删除 cookie 的 jQuery 插件。[官网](https://github.com/carhartl/jquery-cookie)
 * Cookies：客户端 Cookie 操作库。[官网](https://github.com/ScottHamper/Cookies)
-* DB.js：基于 Promise 的、封装了 IndexDB 的库。[官网](https://github.com/aaronpowell/db.js/)
+* DB.js：基于 Promise 的、封装了 IndexedDB 的库。[官网](https://github.com/aaronpowell/db.js/)
 * lawnchair.js：简单的客户端 JSON 存储。[官网](https://github.com/brianleroux/lawnchair/)
 
 <h3 id="color">颜色</h3>
@@ -500,6 +529,10 @@ Web 数据可视化工具
 
 * bowser：一个浏览器检测器。[官网](https://github.com/ded/bowser)
 
+<h3 id="performance-analysis">性能分析</h3>
+
+* easy-monitor：一个轻量级实时 Node.js 项目的内核性能分析工具。[官网](http://www.easy-monitor.cn/document)
+
 ## UI
 
 <h3 id="code-highlighting">代码高亮</h3>
@@ -585,6 +618,7 @@ Web 数据可视化工具
 * jcSlider：用 CSS 动画实现的响应式幻灯片 jQuery 插件。[官网](https://github.com/JoanClaret/jcSlider)
 * basic-jquery-slider：易于使用、指定主题和定制化。[官网](https://github.com/jcobb/basic-jquery-slider)
 * unslider： 这是最简单的幻灯片 jQuery 插件。[官网](https://github.com/idiot/unslider)
+* viewerjs：原生js实现的图片查看器。[官网](https://fengyuanchen.github.io/viewerjs/)
 * jQuery.adaptive-slider：带有自适应颜色标题和导航的幻灯片 jQuery 插件。[官网](https://github.com/creative-punch/jQuery.adaptive-slider/)
 * slidr：可添加一些幻灯片效果。[官网](https://github.com/bchanx/slidr)
 * Flickity：可触摸的、响应式的和可轻弹的画廊。[官网](https://github.com/metafizzy/flickity)
@@ -617,6 +651,7 @@ Web 数据可视化工具
 * fullcalendar：全尺寸、支持拖放事件的日历（jQuery 插件）。[官网](https://github.com/fullcalendar/fullcalendar)
 * rome：可定制的日期（和时间）选择器。无依赖，可选 UI。[官网](https://github.com/bevacqua/rome)
 * datedropper： datedropper 是一个 jQuery 插件，它提供了快速简易的方式去管理日期输入框。[官网](https://github.com/felicegattuso/datedropper)
+* flatpickr： flatpickr 是一个轻量、强大、无依赖的日历和时间选择器插件，支持移动端，并支持React、Ember、Angular和Vue。[官网](https://chmln.github.io/flatpickr/)
 
 ### 选择
 
@@ -661,6 +696,7 @@ Web 数据可视化工具
 * bootstrap-modal：对 Bootstrap 默认的模态框类进行扩展。其支持响应式、可堆叠和 ajax 等。[官网](https://github.com/jschr/bootstrap-modal)
 * css-modal：纯 CSS 打造的模态框。[官网](https://github.com/drublic/css-modal)
 * jquery-popup-overlay：是一个响应式的和可访问性强的模态框和工具提示框（tooltips）jQuery 插件。[官网](https://github.com/vast-engineering/jquery-popup-overlay)
+* layer：国内最多人使用的web弹层组件。[官网](https://github.com/sentsin/layer/)
 
 <h3 id="scroll">滚动</h3>
 
@@ -702,6 +738,12 @@ Web 数据可视化工具
 * touchemulator：在桌面电脑模仿触摸输入。[官网](https://github.com/hammerjs/touchemulator)
 * Dragula：超级易于使用的拖拽库。[官网](https://github.com/bevacqua/dragula/)
 
+<h3 id="touch">触摸</h3>
+
+* fastclick.js：去除触屏用户300ms点击延误。[官网](https://github.com/ftlabs/fastclick)
+* dropload.js：移动端下拉刷新，上拉加载更多。[官网](https://github.com/ximan/dropload)
+* touchslide.js：触屏滑动特效。[官网](http://www.superslide2.com/touchSlide/)
+
 <h3 id="maps">地图</h3>
 
 * Leaflet：对移动设备友好的、可交互的地图 JavaScript 库。[官网](https://github.com/Leaflet/Leaflet)
@@ -725,7 +767,7 @@ Web 数据可视化工具
 
 <h3 id="animations">动画</h3>
 
-* velocity：加速 JavaScript 动画。[官网](https://github.com/julianshapiro/velocity)
+* [velocity](http://hao.jobbole.com/velocity-js/)：加速 JavaScript 动画。[官网](https://github.com/julianshapiro/velocity)
 * [jquery.transit](http://hao.jobbole.com/jquery-transit/)：拥有超级流畅的 CSS3 变换和过渡的 jQuery 插件。[官网](https://github.com/rstacruz/jquery.transit)
 * impess.js：在 HTML 文档里，运用 CSS3 变换和过渡制作类似 Prezi 的展现效果。[官网](https://github.com/impress/impress.js)
 * [bounce.js](http://hao.jobbole.com/bounce-js/)：可以立刻创建有趣的 CSS3 动画。[官网](https://github.com/tictail/bounce.js)
@@ -738,6 +780,7 @@ Web 数据可视化工具
 * [lena.js](http://hao.jobbole.com/lena-js/)：拥有滤镜和实用功能的图像处理库。[官网](https://github.com/davidsonfellipe/lena.js)
 * [pica](http://hao.jobbole.com/pica/)：高质量地调整图片大小（拥有快速的、纯 JS 实现的 Lanczos 滤镜算法）。[官网](https://github.com/nodeca/pica)
 * cropper：一个简单的图像裁剪 jQuery 插件。[官网](https://github.com/fengyuanchen/cropper)
+* AlloyImage：腾讯前端开源的基于HTML5的专业级图像处理开源引擎。[官网](https://github.com/AlloyTeam/AlloyImage)
 
 <h3 id="es6">ECMAScript 6</h3>
 
@@ -759,6 +802,7 @@ Web 数据可视化工具
 * [json3](http://hao.jobbole.com/json3/)：一个现代 JSON 实现库，几乎兼容所有 JavaScript 平台。[官网](https://github.com/bestiejs/json3)
 * Logical Or Not：一个关于 JavaScript 特性的游戏。[官网](http://gabinaureche.com/logicalornot/)
 * BitSet.js：实现位向量的 JavaScript 库。[官网](https://github.com/infusion/BitSet.js)
+* [Edge.js](http://hao.jobbole.com/edge-js/)：运行在一个进程中运行.NET和Node.js代码。[官网](http://tjanczuk.github.io/edge/)、[GitHub](https://github.com/tjanczuk/edge)
 
 <h2 id="worth-reading">精品阅读</h2>
 
@@ -780,7 +824,8 @@ Web 数据可视化工具
 <h3 id="influential-books">有影响力的书</h3>
 *具有广泛影响且值得阅读的前端经典书籍。*
 
-*《[Limu：JavaScript 的那些书](http://web.jobbole.com/8087/)》
+* 《[Limu：JavaScript 的那些书](http://web.jobbole.com/8087/)》
+* 《你不知道的Javascript》：英文版 "You Don't Know JS"
 
 <h3 id="websites">知名网站</h3>
 *值得关注的前端技术站点。*
