@@ -271,7 +271,7 @@ JavaScript 的模块或加载系统。
 * eco：嵌入式的 CoffeeScript 模板。[官网](https://github.com/sstephenson/eco/)
 * JavaScript-Templates：轻量（小于 1KB）、快速且无依赖的强大 JavaScript 模版引擎。[官网](https://github.com/blueimp/JavaScript-Templates)
 * t.js：小巧的 JavaScript 模板框架，压缩后约为 400 字节。[官网](https://github.com/jasonmoo/t.js)
-* Jade：健壮的、优雅且功能丰富的 nodejs 模板引擎。[官网](https://github.com/pugjs/jade)
+* pug：健壮的、优雅且功能丰富的 nodejs 模板引擎。[官网](https://github.com/pugjs/pug)
 * EJS：高效的 JavaScript 模板。[官网](https://github.com/mde/ejs)
 * xtemplate：可扩展的模板引擎，适用于 node 和浏览器。[官网](https://github.com/xtemplate/xtemplate)
 * marko：快速轻量且基于 HTML 的模板引擎，支持异步、流、自定义标签和 CommonJS 模编译后输出。适用于 Node.js [官网](https://github.com/marko-js/marko)和浏览器。
