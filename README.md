@@ -271,6 +271,7 @@ JavaScript 的模块或加载系统。
 * eco：嵌入式的 CoffeeScript 模板。[官网](https://github.com/sstephenson/eco/)
 * JavaScript-Templates：轻量（小于 1KB）、快速且无依赖的强大 JavaScript 模版引擎。[官网](https://github.com/blueimp/JavaScript-Templates)
 * t.js：小巧的 JavaScript 模板框架，压缩后约为 400 字节。[官网](https://github.com/jasonmoo/t.js)
+* tplite：小巧的 JavaScript 模板框架，GZIP压缩后为 276 字节。[官网](https://github.com/lloydzhou/tplite/blob/master/lib/tpl.js)
 * pug：健壮的、优雅且功能丰富的 nodejs 模板引擎。[官网](https://github.com/pugjs/pug)
 * EJS：高效的 JavaScript 模板。[官网](https://github.com/mde/ejs)
 * xtemplate：可扩展的模板引擎，适用于 node 和浏览器。[官网](https://github.com/xtemplate/xtemplate)
