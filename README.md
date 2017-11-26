@@ -822,12 +822,14 @@ Web 数据可视化工具
 <h1 id="resources">资源</h1>
 
 <h3 id="influential-books">有影响力的书</h3>
+
 *具有广泛影响且值得阅读的前端经典书籍。*
 
 * 《[Limu：JavaScript 的那些书](http://web.jobbole.com/8087/)》
 * 《你不知道的Javascript》：英文版 "You Don't Know JS"
 
 <h3 id="websites">知名网站</h3>
+
 *值得关注的前端技术站点。*
 
 <h4>中文站点</h4>
@@ -839,6 +841,7 @@ Web 数据可视化工具
 待补充
 
 <h3 id="weibo-weixin">微博、微信公众号</h3>
+
 * 前端大全 微博：[@前端大全](http://weibo.com/u/5261893910)
 * 前端大全：专注分享Web前端相关的内容，包括 JavaScript, CSS 和 HTML5 技术文章、工具资源、精选课程和Web技术领域热点资讯。
 <br><img src="http://ww4.sinaimg.cn/small/63918611gw1epb2c688tqj2046046mx8.jpg" width=150 height=150>
