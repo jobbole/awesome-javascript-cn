@@ -484,6 +484,8 @@ Web 数据可视化工具
 * crossroads：JavaScript 路由。[官网](https://github.com/millermedeiros/crossroads.js)
 * davis.js：使用 pushState、RESTful 风格和可降级的 JavaScript 路由器。[官网](https://github.com/olivernn/davis.js)
 * [angular-ui-router](http://hao.jobbole.com/angular-ui-router/)：基于AngularJS的可嵌套路由。[官网](http://angular-ui.github.io/ui-router/)
+* react-router: Declarative routing for React [官方](https://github.com/ReactTraining/react-router)
+* vue-router: Declarative routing for Vue [官方](https://router.vuejs.org/)
 
 <h3 id="security">安全性</h3>
 
