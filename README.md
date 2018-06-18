@@ -169,6 +169,7 @@ JavaScript 的模块或加载系统。
 * browserify ：Browserify 让你能在浏览器端使用 require('modules') ，打包所有依赖。[官网](https://github.com/substack/node-browserify)
 * webpack：为浏览器打包 CommonJs/AMD 模块。[官网](https://github.com/webpack/webpack)
 * gulp：用自动化构建工具增强你的工作流程！[官网](http://gulpjs.com/)
+* rollup: JavaScript 模块打包器! [官网](https://rollupjs.org/) [中文](http://www.rollupjs.com/)
 
 <h2 id="testing-frameworks">测试框架</h2>
 
