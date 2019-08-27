@@ -377,7 +377,7 @@ Web 数据可视化工具
 
 响应式程序库扩展了 JavaScript 的能力。
 
-* RxJs：对 JavaScript 进行响应式扩展。[官网](https://github.com/Reactive-Extensions/RxJS)
+* RxJs：对 JavaScript 进行响应式扩展。[官网](https://github.com/ReactiveX/rxjs)
 * Bacon：JavaScript 的 FPR（函数式响应式编程）库。[官网](https://github.com/baconjs/bacon.js)
 * Kefir：受 Bacon.js 和 RxJS 启发的 FRP 库，专注于高性能和低内存消耗。[官网](https://github.com/pozadi/kefir)
 * Highland：对 JavaScript 实用工具的重新思考，Highland 能轻易地管理同步和异步信息，而且仅使用标准 JavaScript 和类 Node 流。[官网](http://highlandjs.org/)
