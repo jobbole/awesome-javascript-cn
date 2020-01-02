@@ -9,10 +9,10 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 我们要做什么？
 
 - 基于 awesome-javascript 列表，我们将对其中的各个资源项进行编译整理。此外还将从其他来源补充好资源。
-- 整理后的内容，将收录在[伯乐在线资源频道](http://hao.jobbole.com/)。可参考已整理的内容：
-  - 《[jQWidgets：jQuery HTML5 UI组件框架](http://hao.jobbole.com/jqwidgets-jquery-html5-ui/)》
-  - 《[Bootstrap：Web前端开发框架](http://hao.jobbole.com/bootstrap/)》
-  - 《[YUI Compressor：JS/CSS压缩工具](http://hao.jobbole.com/yui-compressor/)》
+- 整理后的内容，将收录在[伯乐在线资源频道](http://hwww.importnew.com/)。可参考已整理的内容：
+  - 《[jQWidgets：jQuery HTML5 UI组件框架](http://www.importnew.com/jqwidgets-jquery-html5-ui/)》
+  - 《[Bootstrap：Web前端开发框架](http://www.importnew.com/bootstrap/)》
+  - 《[YUI Compressor：JS/CSS压缩工具](http://www.importnew.com/yui-compressor/)》
 
 * * *
 
