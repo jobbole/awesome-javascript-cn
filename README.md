@@ -138,6 +138,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 管理着 JavaScript 库，并提供读取和打包它们的工具。
 
+* Yarn: Yarn 是由 Facebook、Google、Exponent 和 Tilde 联合推出了一个新的 JS 包管理工具[官网](https://yarnpkg.com/lang/en/)
 * npm：npm 是 JavaScript 的包管理器。[官网](https://www.npmjs.com/)
 * Bower：一个 web 应用的包管理器。[官网](https://github.com/bower/bower)
 * component：能构建更好 web 应用的客户端包管理器。[官网](https://github.com/componentjs/component)
