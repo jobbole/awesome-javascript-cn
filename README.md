@@ -578,6 +578,7 @@ Web 数据可视化工具
 
 * mousetrap：处理键盘快捷键的 JavaScript 库。[官网](https://github.com/ccampbell/mousetrap)
 * keymaster：定义和调度键盘快捷键的小型库。[官网](https://github.com/madrobby/keymaster)
+* [hotkeys.js](https://github.com/jaywcjlove/hotkeys)：一个强健的 Javascript 库用于捕获键盘输入和输入的组合键，它易于使用，没有依赖。[官网](https://jaywcjlove.github.io/hotkeys/)
 * Keypress：键入捕捉工具库，任何键都可以成为一个修饰健。[官网](https://github.com/dmauro/Keypress)
 * KeyboardJS：一个用于绑定键盘组合的 JavaScript 库，让你脱离快捷键和快捷键组合冲突的痛苦。[官网](https://github.com/RobertWHurst/KeyboardJS)
 * jquery.hotkeys：jQuery Hotkeys 能让你在代码任何的地方监听键盘事件，并几乎支持所有按键组合。[官网](https://github.com/jeresig/jquery.hotkeys)
