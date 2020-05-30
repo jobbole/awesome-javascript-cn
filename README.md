@@ -373,6 +373,7 @@ Web 数据可视化工具
 * ramda：一个针对 JavaScript 程序员的实用函数库。[官网](https://github.com/CrossEye/ramda)
 * mout：模块化的 JavaScript 工具库。[官网](https://github.com/mout/mout)
 * mesh：流数据同步工具。[官网](https://github.com/crcn/mesh.js)
+* [rubico](https://github.com/a-synchronous/rubico) - 🏞 [a]synchronous functional syntax
 
 <h3 id="reactive-programming">响应式编程</h3>
 
