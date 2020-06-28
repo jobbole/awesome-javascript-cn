@@ -4,7 +4,16 @@
 
 Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的介绍，如果有更详细的中文介绍，对相应开发者的帮助会更大。这也是我们发起这个开源项目的初衷。
 
-* * *
+-----
+其他 Awesome 前端资源系列：
+
+《让你受益匪浅的前端技术干货系列》：https://github.com/jobbole/awesome-front-posts
+
+《如果有人让你推荐前端技术书，请让他看这个列表》：https://github.com/jobbole/awesome-web-dev-books
+
+《CSS 资源大全中文版》：https://github.com/jobbole/awesome-css-cn
+
+-----
 
 ### 我们要做什么？
 
