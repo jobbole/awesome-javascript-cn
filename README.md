@@ -5,7 +5,7 @@
 
 ### 本项目的参与者
 
-- 维护者：「开源前哨」和「前端大全」微信公号团队 ![](https://github-1255921244.cos.ap-nanjing.myqcloud.com/awesome-js-cn.png?raw=true)
+- 维护者：「开源前哨」和「前端大全」微信公号团队。「开源前哨」会定期在知乎专栏分享最新、有趣和热门的开源项目，每个项目都有详细的介绍和示例。传送门：<https://www.zhihu.com/column/c_1317124962785062912>
 
 - 贡献者：[Yangholmes](https://github.com/Yangholmes)、[刘健超](https://github.com/JChehe)、MissNull、一兮、Mr. Somebody、Jason Lee、Tab_Gre、GavinZhang、shadowkimi520、zhoutk、tzstone、Erichain、chen、[ElizabethMa](https://github.com/ElizabethMa)、LeuisKen、linacre、王涛、[neal1991](https://github.com/neal1991)、[luoyjx](https://github.com/luoyjx)、[appleshowc](https://github.com/appleshowc)、[TAMMENY](https://github.com/TAMMENY)、[cike8899](https://github.com/cike8899)、[cnzin](https://github.com/cnzin)、[cike8899](https://github.com/cike8899)、[hustcc](https://github.com/hustcc)、冰斌、[邢敏](https://github.com/dfghj44444)、[张小然](https://github.com/hellozhangran)
 
