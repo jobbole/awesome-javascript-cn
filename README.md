@@ -240,6 +240,7 @@ JavaScript 模块或加载系统。
 * [makefun](https://www.npmjs.com/package/makefun)：链式 Promise 调用。
 * [Alpine.js](https://github.com/alpinejs/alpine)：Alpine.js 以更低的代价实现了像 Vue 和 React 这类大型架构一样的响应式和声明式的特性。
 * [inferno](https://github.com/infernojs/inferno)：🔥 一款用于构建现代用户界面的超级快速、类似 React 的 JS 库。
+* [Avernakis](https://github.com/qber-soft/Ave-Nodejs) 使用 TypeScript 构建桌面应用，渲染直接利用系统底层API（例如D2D、D3D11）。 
 
 ## 基于 Node 的 CMS 框架
 
