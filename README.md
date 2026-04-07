@@ -829,6 +829,7 @@ Web 数据可视化工具
 
 ## Boilerplates
 
+ * [better-fullstack](https://github.com/Marve10s/Better-Fullstack)：跨 TypeScript、Rust、Python 和 Go 的端到端全栈脚手架 — 代码即刻可供你和 AI 智能体使用。
  * [html5-boilerplate](https://github.com/h5bp/html5-boilerplate)：一款用于构建快速、稳定、自适应网页应用和网站的专业前端模板。
  * [mobile-boilerplate](https://github.com/h5bp/mobile-boilerplate)：一款用于构建快速、现代移动端网页应用的前端模板。
  * [webplate](https://github.com/chrishumboldt/webplate)：让开发者专注于站点和应用构建的超棒的前端框架。
