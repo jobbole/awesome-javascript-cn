@@ -3,6 +3,7 @@
 [awesome-javascript](https://github.com/sorrycc/awesome-javascript) 是 sorrycc 发起维护的 JS 资源列表，内容包括：包管理器、加载器、测试框架、运行器、QA、MVC 框架和库、模板引擎、数据可视化、时间轴、编辑器等。由「开源前哨」和「前端大全」微信公号团队维护更新。
 
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=jobbole_awesome-javascript-cn) - GitHub social feed. Follow JS/TS devs and see what repos they are into. Built with Next.js + NestJS.
 ### 本项目的参与者
 
 - 维护者：「开源前哨」和「前端大全」微信公号团队。「开源前哨」会定期在知乎专栏分享最新、有趣和热门的开源项目，每个项目都有详细的介绍和示例。传送门：<https://www.zhihu.com/column/c_1317124962785062912>
