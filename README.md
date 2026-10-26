@@ -187,6 +187,7 @@ JavaScript 模块或加载系统。
 * [puppeteer](https://github.com/GoogleChrome/puppeteer)：谷歌 Chrome 团队出品，无界面 Chrome （Chromium） Node.js API 环境。
 * [webdriverio](https://github.com/webdriverio/webdriverio)：下一代 Web 驱动的 Node.js 自动化测试框架。
 * [taiko](https://github.com/getgauge/taiko)：用于自动测试 Chromium 内核浏览器的简易 Node.js API 库。
+* [agent-qa](https://github.com/vostride/agent-qa)：基于 Node.js 的 AI 自动化测试工具，通过 CLI、MCP 和 Skills 测试 Web、Android 与 iOS 应用，利用持久记忆与经验证的自我改进复用测试经验。[官网](https://vostride.com)。
 
 ## QA 工具
 
