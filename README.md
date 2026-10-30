@@ -565,7 +565,6 @@ Web 数据可视化工具
 * [axios](https://github.com/axios/axios)：基于 Promise 的 HTTP 客户端，适用于 Node.js 和 浏览器。
 * [bottleneck](https://github.com/SGrondin/bottleneck)：强大的速度限制器，使调节流量变得更容易。
 * [BetterQueue](https://github.com/Saiop68/better-queue)：基于 Redis 的 Node.js 分布式限流器与任务队列，支持跨进程优先级与崩溃恢复。
-
 * [oauth-signature-js](https://github.com/bettiolo/oauth-signature-js)：适用于 node 和 浏览器的 OAuth 1.0a 签名生成器。
 * [amygdala](https://github.com/lincolnloop/amygdala)：为 Web 应用提供 RESTful HTTP 客户端解决方案。
 * [jquery.rest](https://github.com/jpillora/jquery.rest)：一个让 RESTful API 更易用的 jQuery 插件。
